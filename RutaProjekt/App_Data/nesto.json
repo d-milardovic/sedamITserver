@@ -1,0 +1,2164 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJF_W8a_xdNRMRmJ-0MfaPeaE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj7jA0mL6YUcRhAf0Exw-MhI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh12YI6gsNRMR0MwrhlCtAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOcwCyZLWZUcRisL7KJYkRTo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.8150051,
+               "lng" : 16.5733385
+            },
+            "southwest" : {
+               "lat" : 43.5049169,
+               "lng" : 15.0913145
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "158 km",
+                  "value" : 158337
+               },
+               "duration" : {
+                  "text" : "1 hour 47 mins",
+                  "value" : 6440
+               },
+               "end_address" : "Zadar, Croatia",
+               "end_location" : {
+                  "lat" : 44.1193711,
+                  "lng" : 15.2313562
+               },
+               "start_address" : "21000, Split, Croatia",
+               "start_location" : {
+                  "lat" : 43.50736740000001,
+                  "lng" : 16.4396727
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 283
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 43.5064348,
+                        "lng" : 16.4415239
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eObala Lazareta\u003c/b\u003e toward \u003cb\u003eUl. Svetog Nikole\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "apphG}zicBZNPJhAn@NH@@@?@?@?@?@?@A@?@A@C@A@C?C?K?MEmD?m@@k@DeBBGBIDKJQ"
+                     },
+                     "start_location" : {
+                        "lat" : 43.50736740000001,
+                        "lng" : 16.4396727
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 43.5051154,
+                        "lng" : 16.442158
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eGat Sv. Petra\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ejphGofjcBB@B?D?DCf@S`@Ql@WtAk@BCNGNG"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5064348,
+                        "lng" : 16.4415239
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 43.5050538,
+                        "lng" : 16.4422891
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGat Sv. Petra\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_bphGojjcBHCFACS"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5051154,
+                        "lng" : 16.442158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 43.5065606,
+                        "lng" : 16.4412787
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eObala kneza Domagoja\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qaphGikjcBQFa@Nc@Pg@R}Ar@MDKDIFQRKPEJCHCF"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5050538,
+                        "lng" : 16.4422891
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 43.506797,
+                        "lng" : 16.4430814
+                     },
+                     "html_instructions" : "\u003cb\u003eObala kneza Domagoja\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePoljana kneza Trpimira\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_kphG_ejcBCDEDKDIBK?KCECCACECEAECEAW?O?EAY@UAC@C?{A@SHi@T{A"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5065606,
+                        "lng" : 16.4412787
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 133
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 43.5064105,
+                        "lng" : 16.4446441
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. kralja Zvonimira\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "olphGgpjcBBIF_@F_@D[Ji@`@sCDS"
+                     },
+                     "start_location" : {
+                        "lat" : 43.506797,
+                        "lng" : 16.4430814
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 838
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 43.5049241,
+                        "lng" : 16.4545159
+                     },
+                     "html_instructions" : "\u003cb\u003eUl. kralja Zvonimira\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePojišanska ul.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ajphG_zjcBn@q@BCBCBEBEBCBEBEBEBEBEBE@EBEBE@G@EBE@G\\wALeAFi@Fg@NcCJgADWFm@Je@NiAXuBDi@LiBBs@@S@wB?oB?m@@y@DsB?sCAq@?YCwA?{A"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5064105,
+                        "lng" : 16.4446441
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.6 km",
+                        "value" : 2591
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 387
+                     },
+                     "end_location" : {
+                        "lat" : 43.5120091,
+                        "lng" : 16.4849362
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePoljička cesta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w`phGwwlcB?_@KaBEk@]}D}AuPIaAU{BMwAKkAGm@uAaPWqC_ByPmAiMQsAc@gDu@oDcAwDGWqAmFSo@oAwE}@gD}@gEY{Aa@kCsAoIc@mDIe@UuAcAiFMm@UeAMk@Sy@g@gBM]K]Sm@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5049241,
+                        "lng" : 16.4545159
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 785
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 43.5183408,
+                        "lng" : 16.4813605
+                     },
+                     "html_instructions" : "\u003cb\u003ePoljička cesta\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eUl. Zbora narodne garde\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "amqhG{urcB_Az@QL_@^uAhAoBtAmBzAKHo@f@}@t@}AlA_BfA{@l@w@f@EBIBQFi@Nk@H]DK@a@B[?gAGq@Gk@KYG"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5120091,
+                        "lng" : 16.4849362
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 283
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 43.5205241,
+                        "lng" : 16.4831143
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eA1\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eSinj\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "strhGo_rcBuAk@m@[eCeBuByBs@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5183408,
+                        "lng" : 16.4813605
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 558
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 43.5241747,
+                        "lng" : 16.4878516
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eMost Smokovik\u003c/b\u003e/\u003cb\u003eUl. Zbora narodne garde\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Ul. Zbora narodne garde\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "gbshGmjrcBoAcBW_@}FmIkBmCcA_BuBuCmA}A"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5205241,
+                        "lng" : 16.4831143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 43.5252871,
+                        "lng" : 16.4894181
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD8\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ayshGahscBOUUYCCACMQa@o@aA_BWa@EIc@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5241747,
+                        "lng" : 16.4878516
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 43.5257958,
+                        "lng" : 16.490126
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "a`thG{qscB]u@S[S[QQMM"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5252871,
+                        "lng" : 16.4894181
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 43.5269097,
+                        "lng" : 16.4914222
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eA1\u003c/b\u003e/\u003cb\u003eSinj\u003c/b\u003e/\u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eRijeka\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gcthGivscBsAoAkAq@IGIGCCEEGKCGCIAKEa@GY"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5257958,
+                        "lng" : 16.490126
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 km",
+                        "value" : 2191
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : 43.5338018,
+                        "lng" : 16.511984
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eD1\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ejthGk~scBIi@Qe@S_@YY[S_@K]C_@BU?M@UDQBQ?CAKEGGEGESE[?]@O?KDa@Ba@F]Jo@Pw@Jc@^_BP{@Dc@Fi@Fw@H{ABkABq@DsB?}CAsCCqBCuAEoAMiCK_BOuBa@uEM}AQsBIeAKcAOoB]qDq@eHEi@GaASgBIm@Ia@Mi@K]Om@[w@Ui@Wc@g@w@i@q@mAiA[UYQk@YSGOE_@KYEc@I_@Eu@CuBKUAcAGmAI_@C"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5269097,
+                        "lng" : 16.4914222
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 559
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 43.5361508,
+                        "lng" : 16.517276
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTunel Mravince\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "guuhG{~wcBMEaASOGSGy@e@OKc@[MMAAo@s@KMIKMS]w@KSIU_@mAI[WwACYC]MiBGwD@{B?_@@_@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5338018,
+                        "lng" : 16.511984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 210
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 43.5368406,
+                        "lng" : 16.5196601
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}cvhG_`ycBEo@Gy@Gq@Gg@Ga@SgAAGQk@Y{@Wm@IO"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5361508,
+                        "lng" : 16.517276
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 43.5379509,
+                        "lng" : 16.5205895
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMost Majdan\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ghvhG{nycBS]QUk@k@SUSMa@WMGs@U"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5368406,
+                        "lng" : 16.5196601
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 43.53929309999999,
+                        "lng" : 16.5211602
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eovhGutycBgD}@i@Oa@SWO"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5379509,
+                        "lng" : 16.5205895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 43.5404986,
+                        "lng" : 16.5226881
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMost Izvor Jadra\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qwvhGgxycB}@q@]_@OSQUKOAEgAkB]s@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.53929309999999,
+                        "lng" : 16.5211602
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 43.541559,
+                        "lng" : 16.5244598
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c_whGyazcBa@w@aBgD]u@q@kA"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5404986,
+                        "lng" : 16.5226881
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 43.542995,
+                        "lng" : 16.5256242
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTunel Maćkovac\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wewhG{lzcBm@{@m@i@UQgAo@OKs@a@a@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 43.541559,
+                        "lng" : 16.5244598
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1213
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 43.54892299999999,
+                        "lng" : 16.5350261
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wnwhGctzcBw@c@UOOKOMECOOACGGY[U]We@c@eASq@Mm@Kg@Ea@KkAScEY_G[mGO{Be@yDGe@YmA_@eAWk@sAaBOUkAq@aA[o@Oe@EUCO?_@@O@_@Ho@PYJi@VUJc@T_@V"
+                     },
+                     "start_location" : {
+                        "lat" : 43.542995,
+                        "lng" : 16.5256242
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 43.5516125,
+                        "lng" : 16.5344907
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTunel Klis - Kosa\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wsxhG}n|cByAz@q@b@o@ZGBi@Ls@Hw@?e@?}AU{@U"
+                     },
+                     "start_location" : {
+                        "lat" : 43.54892299999999,
+                        "lng" : 16.5350261
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1654
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 43.56302669999999,
+                        "lng" : 16.5314219
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qdyhGqk|cBcAe@}@}@]c@Yi@MWWk@kAwC]s@o@yAQ]c@m@o@q@q@k@e@U}Ac@mAMk@Ce@?a@BkCFwAJwAJyANs@Ji@L_@Hc@Jm@P{@^i@VUPm@f@YXs@x@g@`AuBlHc@|A]rAeAhDo@zAo@lAa@l@q@z@o@p@k@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5516125,
+                        "lng" : 16.5344907
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 43.5644871,
+                        "lng" : 16.5308226
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTunel Klis - Grlo\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}k{hGkx{cBa@Ta@Ra@Pe@Nc@Le@Je@Hg@F"
+                     },
+                     "start_location" : {
+                        "lat" : 43.56302669999999,
+                        "lng" : 16.5314219
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 643
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 43.5698312,
+                        "lng" : 16.5335307
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "au{hGst{cBuB@sAKyAYo@S]MCAgAi@yAu@kFkDgA}@cBgAi@[s@[OGMC"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5644871,
+                        "lng" : 16.5308226
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 43.5711454,
+                        "lng" : 16.5335981
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMost Mihovilovići\u003c/b\u003e/\u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mv|hGqe|cBe@I[E_@CWAc@?iBF"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5698312,
+                        "lng" : 16.5335307
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 43.5720077,
+                        "lng" : 16.5335759
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTunel Mihovilovići\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u~|hG_f|cBgBD[@S?SC"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5711454,
+                        "lng" : 16.5335981
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.8 km",
+                        "value" : 3850
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 43.5911313,
+                        "lng" : 16.5723892
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ad}hG{e|cBo@Oc@OYMSI}@m@g@a@o@w@SYKQOU]q@c@kAQg@{@cDwAkGw@iDi@sBqAkF_@}AOq@ACMo@w@mDcBeHWaAuAyFwBcJ{AqGc@{Ac@{Ae@{Ag@aBi@aBgBgFyDeLcBaF_@eA[_A]_A[aAYaAW{@U{@GUMg@U}@U}@S}@WkAi@yB}AcHWiAMe@Me@Oc@Oe@Qe@GMKWSc@CIOYUc@Ua@u@uAMW}AiCqEqHaCuDsDmGKQuA}BGIoCoDeImK{@y@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5720077,
+                        "lng" : 16.5335759
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 236
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 43.5924985,
+                        "lng" : 16.5746094
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eRijeka\u003c/b\u003e/\u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eDubrovnik\u003c/b\u003e/\u003cb\u003eDugopolje\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q{`iGmxcdBWy@_AwAUa@{@wAg@y@a@q@M[Og@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5911313,
+                        "lng" : 16.5723892
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 959
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 43.598051,
+                        "lng" : 16.5683298
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto the \u003cb\u003eA1\u003c/b\u003e ramp to \u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eRijeka\u003c/b\u003e/\u003cb\u003eDubrovnik\u003c/b\u003e/\u003cb\u003eŠestanovac\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "cdaiGifddBCSESGSGQGQIOKMKMGEEEGEECGEGCGCGAKCMCK?M?K?M@KBKDUJSNQPQTMVKZG\\G\\AVAV?V@VBVDTDTFTGj@EPGLSZg@t@_@b@Qf@_CxCwC~DuB`D}AvB}ChE"
+                     },
+                     "start_location" : {
+                        "lat" : 43.5924985,
+                        "lng" : 16.5746094
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "116 km",
+                        "value" : 115745
+                     },
+                     "duration" : {
+                        "text" : "58 mins",
+                        "value" : 3450
+                     },
+                     "end_location" : {
+                        "lat" : 44.11177439999999,
+                        "lng" : 15.4491081
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e at the fork, follow signs for \u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eŠibenik\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eA1\u003c/b\u003e and merge onto \u003cb\u003eA1\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eE71\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "fork-left",
+                     "polyline" : {
+                        "points" : "yfbiGa_cdB}@lAe@p@yApBgAzAo@|@MRKNQRKNSVy@hAEFGHUZKPOVM^IZE^AZAN?L@L@RBT@NBHBJDNFVLXTb@LPLN`@\\p@p@FH^|@Rv@Jf@Fb@B`@TvA\\rGDdA@T?@@TJlBpAjXPnD|@nQx@dQDv@ZnIXlKVvKLfK?FJzK?lAAnN?bO?nN?`@AdMFfG@j@?P@|@@\\l@zKhAtKLjA`AbIj@zFXtCj@tKJjGFnCANAhKQ~JAVo@rKW~CqBhWsCz]]fFQnFKlFJxFTtEj@|Fz@zFFVz@vDnArE|AjE|DxH~DpF~DpFT^T^T`@T^T`@R`@Tb@Rb@Rd@Rb@Pd@Pd@Rd@Pd@Nf@bAtE~AjJ`DnWdAlJPhAf@~CJv@Jx@\\bCjA~IRlBr@fFNrALrAj@hEh@hE~@lHjApJBVx@lKNtELxDEdGAjDc@bJ{@~J_BnPsA`NsAbNCRCTAJCL_@|D]xDKdAa@jEKrAk@fGSbCg@|ICd@ATC`@Cj@KhCIhECj@C`BEtG@XAdAD|H@RTfJBj@@b@h@xJHx@v@`JfAtKb@dF@RR|CHvCHbD@bB?lDCbCEhBQjEM`BOpB[pDQ|AWpBWdBs@jECL_CnNm@lDc@bCAFIf@{AdJy@~EcAzFUpA_CvNqBvLUpA_AxFgCnOmBfLoBzL_BlJ}ArJG^wAdJKp@_@jCIv@[|C]zDMjBMpBQbEOxEAp@CpJ?^PbKBd@ZxGL|AB^`@nE\\dDhD|UN`Af@lFZfDBb@PpD?@H|BDpA@\\Bd@DpD?pB@b@AROlKQbEKdBMfBUzCGl@OtASnBU~AUzAQbAO|@SjAoBvIMh@eDlJuDhIcElIaD|G[n@sCjJiBlK_AvKQ`L?nB?jHGvD?TAV?BAb@CnCGr@q@dJy@bMEn@_@rF_A|MAVyAdKkArDmAhDwDbIEHiDvFe@v@CB_EvH{@vBUl@sAzDkA|D}@lDAF_AzEKl@a@nB[xBmCzS}Kv{@?@aBbMyAfKsBbKOh@}BjIaD|IoDpI_DzI{BpJET_BlJaAtKU`L@bA@p@HnH^fYl@ri@HjHE~KEp@q@bJs@pEMx@CVGb@QdAmCnJgAbC_@x@Sf@A@Sd@a@~@aBvBQXCDY^EFKNa@b@kDjE_BfBgEbFe@r@}DhHeAdCsBvEw@~AkB~D]t@{CvFq@lAm@dAsCxEQXEHeErHkD|IeCbKwA~K[fC{@tG[hBmAdHc@rBsAfGkAtDiArDiCvGa@hA}DbIgEbH{EjGgApA[\\gJvKwEvGo@`A{CxECHSX{@xAS\\S\\sA|BqExG{@p@WVKJGHw@t@m@d@yAfA_Aj@uAr@uCdAoA\\{@Tq@N{@PUFc@Lu@Ls@Ps@T}@Rw@ViC|@A?iAf@aA`@eAh@w@b@eAh@sExCaBrAeB~A]Ze@d@[ZkAlAqB`CKJk@t@k@t@k@x@k@v@i@x@g@z@g@|@g@z@[n@KNc@~@e@~@c@`ACFUf@GNa@bAa@`A]bA_@dA]bA]dA[fAYfAYbAABWhAWhAWhAyBvN_@|CGn@[lCs@xK_AxKkAtKqBbKeBtGGXADGROh@_@~@qAbDaA`CcCzEcBxCkGrIYd@sFfHiAtAY^STCByE`HyEnHeDbGWb@GLaEzHoDpIe@pASf@gBvEgBxFk@jBoAnEQh@?@Oh@W|@aCnJoBdK{@zEG`@?@Ib@]hBqA`KYnCGn@Gl@]zCaCrXALqAlLaBlKaBfKwAhKi@`F]bCIf@AROtAu@|H[dEEp@W|Ci@fI?@IlAe@dKKlDSjGMjLBjKPhXZzN`@~Kp@tK~@hL|@xKL~BDp@VhFDjHEpEIpCYzDaBvR]tFKjCIjEAdC@pDNfDn@nKLrB`@tFFx@VnI@`@?Z?hC@fGY~KSlCKxAQpCi@~GGt@a@bI]jHOjHAfBGfDCzDArACbEE`BClAElAElAEdAEdAGdAGbAGhAGhAIhAIhAKhAIfAGf@C\\MdAMdAMbA_@vCSpAQjA?BEXGZEZMn@G^CLQbAUnAWnASfAWfAUdAU~@AFWdAWdAYdA]nA]lA_@jA_@lAa@jA_@jAc@hAa@jAa@fAc@dAe@fAc@dAe@dAABc@~@g@dAe@`A}CpG}KjUc@|@eA~B_AzBSj@MT_@~@a@`AKXSh@_@dA]bAM\\Of@]bA[fA]dA{@~B[x@W|@CJc@nB_@xCMjA[vCKjAqBbOQtAStAStAOv@GZWrACLUbAGTQz@[pA[nAK`@Md@[fA]dA_@bA]dA[v@O\\KX[t@]v@[t@_@r@u@xA[l@[j@[h@]j@w@rAu@rAu@tA?@Ub@]p@s@xAs@vAw@fBITi@pAu@hBq@jBq@jBc@bBi@pBmArEABgApEaA|D_A|DGXy@dDqT||@W`AQl@GRY~@[~@[~@]z@_@z@_@z@[j@EJa@v@c@t@e@v@e@r@g@r@EDc@j@k@n@m@l@YVSRIFc@`@o@f@o@d@q@b@q@`@s@^q@Z}GnC]NC@a@NqBp@wDbBuOtFq@Vs@XKD_@PEBq@Zq@\\_@NWPw@`@w@`@w@d@k@`@k@d@k@b@i@f@m@j@m@j@m@l@k@n@i@p@ON[`@i@p@g@t@g@t@g@t@e@v@c@t@a@r@GHYb@CBc@p@e@n@e@n@i@p@i@n@k@l@k@l@m@j@m@j@m@f@m@f@o@d@aBfAONCBKHgC`CWTe@b@{@|@{@|@k@h@QR{@~@{@~@_AbA_AdA_AfA{@fAMPq@t@{GrHe@`@e@d@e@b@i@d@QPSRA@URSXk@n@k@n@k@l@_@\\_@ZaAx@o@f@QLw@p@SLaBjAyBzAmAr@sAx@o@^oAv@eAn@kAv@kAv@kAx@iAx@k@j@k@j@k@l@i@n@i@n@i@n@i@r@i@v@g@t@g@x@e@v@e@z@e@z@c@z@c@|@a@~@cA`Ca@~@c@`Ae@|@e@|@e@|@g@z@e@v@g@t@_@h@_B`CYb@QV{AtBo@|@g@r@wApBINuBhDu@lAu@rAmBlD{@bB[p@]r@Sd@}AtD}A|DaJjWoA~Cq@zAiAvBGJ{AdCeAzAyAlBaE~DeAdAcDbDc@h@_@b@u@x@ORyB~CyCnEu@dAoA`BeDpD_Az@mAz@}CfBuB|@yBr@{Bn@eDx@_@JqA`@c@NC@_@J_CbAwA`Ac@\\cAv@}@t@gAfA{AdBi@v@i@v@g@v@MRWd@e@|@iAxB_B`DABc@z@a@n@_@n@Q\\S\\sAjBCDu@|@c@b@aB|AkB~AaCxAwBfAiFnBgDrAeBz@IDiAp@k@b@cAt@cBxASP[Xi@l@i@h@i@j@k@f@k@f@URWRm@b@m@d@IDc@Zo@`@o@^o@^g@Vi@Ti@Ri@Ri@Pi@Nk@Li@Jk@Jk@H]DgDL{A@u@AiACuAEk@Ia@GkJmBsAYw@Kc@Go@ISC]AyAEwAAo@Do@@o@Dm@Dm@Fm@Hm@Jk@Jm@Nk@Nm@Pk@RuHbDo@To@To@Pq@Po@Nq@Lq@Jq@Hq@Hq@Dq@Dq@Bq@@q@@YAgEa@sC[kDg@g@C}BQQ?}AAeADK@yEXq@NqBb@w@TuAb@aBr@sAl@iJbDwH~CsCbAoA^mAb@mAd@mAd@kAf@GBeAd@kAj@kAj@aAh@aAj@{@d@ED}@p@_Ar@}@t@}@x@_Az@}@z@{@~@{@|@{@`A{@`Ay@bAa@f@W\\C@u@bAs@`ACDUZa@j@iAdBwGfJy@bAuBbCy@`Aw@z@oAxAeAhAcAfAeAhAeAdAmClCaAhAaAhAaAjAqA|AqA|AqA~AoA~AqA~A{Vz]oCvD{@tA}ApBmGbJqErGwKjOkGzI_@h@gBpCeBpCcBpCcBtCKNuAdCaBtCiBbDeBdD{@~Ag@bA_B`D_BbD}AbD{AdDiAfCQ^CFSf@Uf@c@dAoA~CoA`DoA`DmAbDKVcAnCmAjDkAjDu@vBIVKZkAlDgAnDy@jCMb@gAnDeApDgAbEeAbEcAdEcAdEQt@i@dC{@zDy@|DaAbFm@vCw@zDGRm@hDu@|De@tCa@bCa@bC]dCc@|Ca@zC_@|CmBlO]vC_@hDa@hDa@fDc@hDYpBKn@?Dg@bDg@bDg@bDk@bDk@`DQbA[|Ae@dCg@fCi@bCi@dCk@bCm@bCm@`CSv@YhAq@~Bo@~Bs@~Bs@|Bs@zBO`@gAhD{AfE_AfC]z@_BbEoAxCQd@eB|DgBzDkBvDmA`C]p@oBjDmC`FuA|BoB`DgBpCIL}AzBU^wBxCwBtCyBrC{BpC_CjCi@n@uAxAaCfCaCbCeC~Bg`@h`@oOrOiDjDQPABMLeIhIeHbHaB`BOPQN}C`DkIlIcAjAyC~CgBdBqApAeBfBsAtAaEdEoC`DiAxAkDtEcBbCgBrCyDjH_BdDS`@?@Sb@g@bAeDjI{ClJkCjJoGvVkAvECHu@xCaBpFOj@]fAqC`JcDzI_BzDyArDmDfI{DhIaExHkEpHmE`HqEzGaKvNEDk@v@kEdHgEzHWf@eEbIeDdHYl@Q`@cDlHgDvIiDfKeMjb@Wv@Oj@}AhF{CfJwBdGSh@_@bAgAvCc@fAuExL{DpJqJnSKToDpH{DxHmEdIqAvBaC~D_EvGKPyEhHmAdBkCxD}R~WUX}IrM[d@_FtHqCvE{@tA_FrIIR}DnHmBrDwApCcExI_ExIuBbF{@pB{C`I{GpQsClIwChJsAdE?ByOhf@Qb@iCbH{ItTYr@aEhJqApCSf@oAlCgE|IqEjIe@z@Wd@mCzEkErHqErHyEbH}EdHkF`H_FtGuMnPwF~GABeFpGmV|ZyDzEuFjHiBdC}BzCeFnH}EhH{BpDMR?@MP}@xAoErHuE`IcEdIaEfIiA`CUd@yAzCGJuDrIuCfH_Pr`@M\\O\\sOl`@yOz`@a@bAyFlNg@lAkIfS{D~Iy@dBiClFcEjIaIhNeBxCc@t@MTA@KRs@nAiBpCmDfF{AxBuArBa@`@_H~IuFjHoFlGqF~F}F|F_@VKJGDSPs@t@_CxBkGrFuFpE}DzCgBrAo@b@uB|AuDhCkChBuCrBeChBcD`CqB~AoDvCmAdAmAjAqDdDIFoDnD[Ze@d@sFfGiFvGiFxGcBjCMNABILaBdCyLfRUZsAjByBhCqDbDuAnAuGrEyCnB_@VaKvGcCbBqBtAmD|BmBlA}@r@uEjDwAfAIJC@EDA@STgA~@y@`AwDlEoB|CkBrC{JjQaF~IGL_E~G{BrDmApBCDgEvGYb@wBzCsApB_AtAoCpDgFfHqBfCeBzBaE`FkAxA{BpCKL?@KJqGbIY`@iC`DOPaJfLyHtJcCzCy@dAuLhOY`@sLhOkEtFa@f@iFfHKPOTA?ORU\\IL{CpEg@z@kDrFqDnG_@l@y@xAqChF_EjIUd@sCpGsCrGu@dBkDdJoBvFs@pB{CfJs@~BgBzFoC~Ji@pBcBrGwGvWkC`KaClIOh@?@wClJaDlJiDfJeAhCkBpEwDrIQ^s@|AwBnEcE`IgEvHgKbQcEbHW`@A@_@n@gAdBmBtDkBrDu@xAiBvDu@~AiB`Eu@`BeBdE}@jByC|G"
+                     },
+                     "start_location" : {
+                        "lat" : 43.598051,
+                        "lng" : 16.5683298
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 852
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 44.11347480000001,
+                        "lng" : 15.4416314
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e18-Zadar II\u003c/b\u003e toward \u003cb\u003eSukošan\u003c/b\u003e/\u003cb\u003eZadar Centar\u003c/b\u003e/\u003cb\u003eZračna luka Zemunik\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "qqflG}kh}AYZYh@S^EHm@`AMP_@^ONa@Za@XQJe@RkARk@JE@YDQDc@Jk@^SP[h@Mb@Ml@Ef@A\\@F?NB^BV@FF\\DLNb@`@pA@BHT`ArChAjDZ`AJ^BLFVDTDTJvA"
+                     },
+                     "start_location" : {
+                        "lat" : 44.11177439999999,
+                        "lng" : 15.4491081
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17.1 km",
+                        "value" : 17133
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 672
+                     },
+                     "end_location" : {
+                        "lat" : 44.0979387,
+                        "lng" : 15.2739984
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD424\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "e|flGe}f}ABvA?jBG|@MtA_@bBs@tBu@lBWp@q@fBaBnEm@jB[\\A@iAdDsCfHSj@IP]~@sF|NMf@Kf@Kh@Kf@Ih@CNEXIj@Gh@Gh@Eh@Ej@Ej@Ch@Cj@Aj@Aj@a@rLq@tQ@b@@d@@b@@J@V@d@Bb@Db@Db@D`@Fb@Fb@x@|DJf@?DLl@xBjJpChM|Ija@hGdYNb@Nb@N`@Pb@N`@P`@P^R`@P^R^fA|At@lAnBdCbBvBzD`F\\b@|FlHhC`D~D|ExDdF~NxQjFnGx@bA|BdD|DbILZDJ@BHRv@`CbAjD|AnFxAfFpAtE~@dD@BpArElAdErAxEpAvEnAhEfAzDJ^dArDd@~Al@tBx@vCj@pBf@fBh@lBn@~B\\jAZbAV`APf@Rv@Pj@Nd@Ph@Vx@Z|@Tl@Rl@^|@Tj@Vj@LZP\\Td@Td@Tb@P\\PZT`@Vd@Zh@T\\Xb@Zf@\\h@Xb@V^h@x@Zd@d@r@Xb@X`@RZFHPVNVt@hAz@lAx@nArApBr@dA\\h@dA|Ah@x@\\h@^f@d@t@DDV^\\f@j@|@r@bAf@v@X`@l@~@\\f@~@rAz@pAl@v@z@fAb@j@b@d@VXn@t@|@|@h@j@FFDBn@p@v@v@TRFF|@z@`A`AdAbA|@|@~@z@~@~@VV\\ZBDjEbEdAbAfAfAfAdApBlBhAfApAlAdAbAjAjAfAfAv@t@j@j@f@b@d@d@\\Zn@l@f@f@`@^d@f@\\`@b@d@d@n@VZFH\\h@Zh@Zj@LVJTVj@Vn@Vn@Rr@Tt@Pp@FZFVNt@Jt@Jn@BVBVB\\@ZBRDx@@B@^@L?D@T@b@Bj@@x@At@?RAj@Ab@AZCb@AZEd@AXEb@Ed@G`@Ip@Ij@Id@G\\IZGZIXGVKb@Od@KZKZKTUn@Sd@OZOX[j@]h@]f@QROR_@b@_@b@_@^UTi@d@]X]Vi@`@k@b@k@`@a@Xe@\\a@Xe@Zg@\\e@\\i@^g@\\o@d@c@Zs@f@g@\\_@XOHSL[TMLMJk@^k@`@k@`@o@b@aBjA{AdAyAdA}AfAqA|@iA|@GFOJURg@`@WTYV]Zc@d@_@b@[^e@h@w@`Am@v@i@r@y@dA{@lA}@lAq@~@cAtA}@lAe@j@MRORCD}@jAg@t@k@t@o@z@_ApAaApAoAbBgAvAw@fAo@|@u@~@k@r@s@~@Yb@KPa@j@eEvFYb@q@~@EFKLQ^Q\\a@`A[x@Wr@Up@Ux@Sz@UfAQdAKh@ALKr@Il@M|@OfAOjAUzAQpAOfAS~AQpAQlAK|@OfAM~@QhAOfAMz@M~@UdBKt@SzAIf@MbAWhBWjBUbBS`BSxAET?BEZOdAUfBWhB[pBQhAS`A[vAW|@Ql@]fA[|@a@dAYt@c@pAw@vBo@fBCFO`@]bAc@fA[~@Uv@YbAS|@Ml@M`AK|@GfAE~@?|@?j@?l@Dp@Br@Fp@J~@Nv@Nv@Lh@Rv@`@bAFR`@x@PZv@nA`@j@Zb@`@f@FJTZNPFJTXNVJPHL`@r@Th@Vz@ZjATtAHtADlB?bBMrAKx@AD[tAYbAe@fAu@pAaAvAwC|DeArBm@nBUvAKt@I|@?N?v@BtAJhA"
+                     },
+                     "start_location" : {
+                        "lat" : 44.11347480000001,
+                        "lng" : 15.4416314
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 44.0979371,
+                        "lng" : 15.2716129
+                     },
+                     "html_instructions" : "Take the \u003cb\u003eD8\u003c/b\u003e exit toward \u003cb\u003eSukošan\u003c/b\u003e/\u003cb\u003eBibinje\u003c/b\u003e/\u003cb\u003eZadar Centar\u003c/b\u003e/\u003cb\u003eLuka Zadar\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "c{clGoef|ADfA?NANAJ?@CLALAJSx@Mp@CTA^?T?F@RLd@\\dA"
+                     },
+                     "start_location" : {
+                        "lat" : 44.0979387,
+                        "lng" : 15.2739984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 960
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 44.1040957,
+                        "lng" : 15.2634752
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork, follow signs for \u003cb\u003eZadar Centar\u003c/b\u003e and merge onto \u003cb\u003eJadranska Magistrala\u003c/b\u003e/\u003cb\u003eD8\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "c{clGqve|A@DBJ?LAH?FCJCHET}@x@}@~@UXY`@iA|Ay@tAk@bAi@|@Wb@_C|Ds@tAo@lA}@|AmBbDSZ{AfBq@r@uBnBGDkAx@k@^"
+                     },
+                     "start_location" : {
+                        "lat" : 44.0979371,
+                        "lng" : 15.2716129
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 44.1030334,
+                        "lng" : 15.2469653
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eUl. Braće Miroslava i Janka Perice\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "saelGwcd|AOJHZPp@N`@DHn@|AXn@LZFLhCxFL\\NVXl@r@dBr@jB^z@FNXxABLBh@Bz@CNAvCAVClBAp@AT?|@?hB@JQfFIfCCn@AVCd@Ap@AVGtCAd@KbDArA?VGp@AHO`A_@dBq@nBm@~AMf@IXKZUl@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1040957,
+                        "lng" : 15.2634752
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 620
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 44.1074895,
+                        "lng" : 15.2424156
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Vlatka Mačeka\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}zdlGq|`|AY|@Q\\Sb@QXQVSPw@v@cAz@WVeBjA}@|@q@l@{@v@cBhBMD_An@GDy@x@iAlA_@^"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1030334,
+                        "lng" : 15.2469653
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1242
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 196
+                     },
+                     "end_location" : {
+                        "lat" : 44.116871,
+                        "lng" : 15.2353237
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. dr. Franje Tuđmana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yvelGc``|AOTa@`@o@dACDCFABAB?B?B?B_AfAa@b@c@f@_@^i@h@o@f@{@|@]h@o@|@IJwApBy@~@]`@ABaAdA_@b@KHMLMHMJkAx@SNsAhAgBxB_@XWPUNMDMBC@E?G?EAGAGAEAGAECGAECGCuAe@GAECGAG?GAG?GAG?G@G?G?G@oAb@oAf@KDg@RcA\\cBn@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1074895,
+                        "lng" : 15.2424156
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 44.1161792,
+                        "lng" : 15.2333497
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eUl. bana Josipa Jelačića\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mqglGws~{AB^D`@F`@N`AT`AXx@\\x@NZHP"
+                     },
+                     "start_location" : {
+                        "lat" : 44.116871,
+                        "lng" : 15.2353237
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 44.1193711,
+                        "lng" : 15.2313562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUl. Josipa Jurja Strossmayera\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cmglGmg~{AGFcApAkBfBgAdAWT[T]Le@Bk@FG@uAPeATu@T"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1161792,
+                        "lng" : 15.2333497
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "76.0 km",
+                  "value" : 75981
+               },
+               "duration" : {
+                  "text" : "54 mins",
+                  "value" : 3226
+               },
+               "end_address" : "Skradin, Croatia",
+               "end_location" : {
+                  "lat" : 43.8178594,
+                  "lng" : 15.9232192
+               },
+               "start_address" : "Zadar, Croatia",
+               "start_location" : {
+                  "lat" : 44.1193711,
+                  "lng" : 15.2313562
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 44.1161792,
+                        "lng" : 15.2333497
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eUl. Josipa Jurja Strossmayera\u003c/b\u003e toward \u003cb\u003eUl. Stjepana Radića\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aahlG_{}{At@UdAUtAQFAj@Gd@C\\MZUVUfAeAjBgBbAqAFG"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1193711,
+                        "lng" : 15.2313562
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 44.116871,
+                        "lng" : 15.2353237
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eUl. bana Josipa Jelačića\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmglGmg~{AIQO[]y@Yy@UaAOaAGa@Ea@C_@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1161792,
+                        "lng" : 15.2333497
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1227
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 223
+                     },
+                     "end_location" : {
+                        "lat" : 44.1075103,
+                        "lng" : 15.2421919
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUl. dr. Franje Tuđmana\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mqglGws~{AbBo@bA]f@SJEnAg@nAc@FAF?F?FAF?F@F?F@F?F@DBF@tAd@FBDBF@DBF@D@F@F@D@F?D?BALCLETOVQ^YfByBrAiAROjAy@LKLILMJI^c@`AeA@C\\a@x@_AvAqBHKn@}@\\i@z@}@n@g@h@i@^_@b@g@`@c@~@gA@?@?@?@A@?BAzAmB"
+                     },
+                     "start_location" : {
+                        "lat" : 44.116871,
+                        "lng" : 15.2353237
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 632
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 44.1030334,
+                        "lng" : 15.2469653
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Vlatka Mačeka\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}velGu~_|ANQVWh@s@~@_A^a@bAcAFMbBiBz@w@p@m@|@}@dBkAVWbA{@v@w@RQPWPYRc@P]X}@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1075103,
+                        "lng" : 15.2421919
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 704
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 44.1015981,
+                        "lng" : 15.2553711
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Braće Miroslava i Janka Perice\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}zdlGq|`|ATm@J[HYLg@l@_Bp@oB^eBNaA@IFq@?W@sAJcD@e@FuC@W@q@Be@@WBo@HgCPgF@I@I?G@K?M@e@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1030334,
+                        "lng" : 15.2469653
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 44.0995645,
+                        "lng" : 15.2555901
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGaženička cesta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_rdlGaqb|AD]@G?E@EBEBIDEBEBADEh@?b@AjCNn@Dn@@NHF@RDJ@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.1015981,
+                        "lng" : 15.2553711
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1012
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 44.0920898,
+                        "lng" : 15.2625655
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "gedlGmrb|APAT?NARCZGj@Kb@Qt@c@l@g@vA{Ab@c@Z_@~@iAtAuAjDsD`DqDn@u@d@a@nBkBzGuHn@o@j@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 44.0995645,
+                        "lng" : 15.2555901
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 778
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 44.09579309999999,
+                        "lng" : 15.2699414
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qvblGa~c|ADDB@B?B@@?B?BAB?@AB?@A@A@A@A@A@A?ABC@E@C@E?C@E?C?E?C?EAC?CAEACACACACCAACCAAACACAC?A?C?C?C?[g@a@w@Qi@g@_A[q@u@gBa@aAUa@Uk@c@_Au@cBMWMYgBaEMWKWsAyC]y@O_@CGKWmAkC"
+                     },
+                     "start_location" : {
+                        "lat" : 44.0920898,
+                        "lng" : 15.2625655
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 44.096592,
+                        "lng" : 15.271447
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue toward \u003cb\u003eD424\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "umclGcle|AKQ?AA?KUu@cBe@eAi@yA"
+                     },
+                     "start_location" : {
+                        "lat" : 44.09579309999999,
+                        "lng" : 15.2699414
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17.4 km",
+                        "value" : 17371
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 690
+                     },
+                     "end_location" : {
+                        "lat" : 44.11347480000001,
+                        "lng" : 15.4416314
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eD424\u003c/b\u003e (signs for \u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eSplit\u003c/b\u003e/\u003cb\u003eZračna luka\u003c/b\u003e/\u003cb\u003eRepülőtér\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "urclGque|Ae@cAQ]IOAA?AYi@eA{BO_@[_AMe@GW?AGWMuAGw@AmBH}AJeALy@Ts@n@{Ad@y@nDcFfA_Bp@uATo@Pe@Nk@Nw@DSNeAF{ABaBCuAG_AKeAMu@Qo@Qk@Uo@a@_AKSGMIOKQOSMSYc@ACc@k@AA[a@Yc@g@m@Yc@Ye@Yi@GMMUKWGQa@kASs@Kc@Mm@E_@AGIi@Gw@G{@Ei@Aw@Ao@@k@@m@@c@Bc@Dc@B]D_@DWBQDSBSDYJc@DMJc@Rq@b@sApD}JlAkDf@sA\\cATw@Pg@BEPs@Lc@No@DWJa@PcATyAVkBT_BRyAHi@Fi@DW@GTaBVmBRyAXuBR{ALcABKL}@R{ATeBVqBXmBXwB\\cCZ}BVsBTcBRsAVoBNkAJs@RuANiA@GHi@Ly@Ns@Li@Nk@L_@Pi@Vy@Zu@`@aAHMZk@NYFILUVa@r@cA~EuGDI`@k@z@kAV]RWf@u@n@y@nAeBvAmBx@iAl@w@`AsAp@}@rAgBv@gABCNSNS`@k@~@mA`AqAt@cAxAsBl@w@h@u@V[d@q@t@cATWX_@Z_@\\]JKNOPQZ]VUZYRQXUXUJIDEFE`Au@tA_A|AiAtA_AxAeAbBkAr@i@p@c@f@a@ZULIFEHGVQp@g@ZU~@o@pBwAh@_@h@_@f@]b@[d@]`@W`@[d@]j@a@f@_@b@]\\Yd@]^[ZYXYVYX[RWBCV[?AV[T]T_@T_@Ta@Ra@Rg@Rg@Pc@Na@J_@Pi@FWH[F[J_@Ha@DYLo@Fc@D[Fe@Da@Dc@Dk@Ba@Ba@@c@Be@@e@?a@?k@?g@?g@Ai@?GAg@Ak@Ci@GeAQqBEUGc@Kk@Ig@?AKe@Mi@Og@I]EQM_@Qe@Oi@M[CEOa@Q]Q_@S]Q]OSGKQYUYOUQUSUSUY]]a@e@e@c@a@i@i@i@i@_@_@c@a@g@e@m@k@u@u@eAcAoAmAgAeAmAkAiAiAmBiBkAgAmAmA_A{@{CwCs@q@_@_@a@a@u@s@sAsAwAsAiBiBcBaB_A}@[Yc@c@Y[e@e@a@c@e@i@k@u@g@m@q@{@s@cAg@q@o@}@y@oAo@aAm@}@e@s@gDaFm@}@q@eAyD{FsFiIMSkAeBsAsBsAoBe@s@a@q@S[]i@c@s@Yg@Sa@S_@Sc@Yk@]s@e@gASe@M[O]Uo@Sg@a@kAc@qA[gAMc@Uu@Mc@[eAYaA[iAa@wAw@mCq@aCk@oB{@yCm@{BOc@Uw@e@cBs@kCkA_EiA_E_BwFqAsEyAeFq@aCW_A{@wCs@iCa@sAy@{C{@uCm@yBW{@w@gC[{@GSKYCECIc@kAWe@}AeDuAyBgAwAy@qAk@q@qEsF}NuQuEaGoJaMwEyFEGcBqBeEaF[a@U[U[U]EEOUU[S[U[S]S]OYCCCIMSQ_@S_@O_@Qa@O_@Qa@Oa@Mc@wD_QcB_IOm@aHu[[{AsCyMyBwIOm@COI_@s@yDG[E[E]C[C]C[C]A_@A_@?]AI?U?_@?_@VkHTiHd@qL@g@@e@@g@@e@Bg@De@Be@De@Fe@Fg@Fi@Hg@BMDWHg@Jg@Le@Je@lF{NZw@BGFMTq@~CaIbAmC?ADi@l@kB`BoEp@gBVq@t@mBr@uB^cBLuAF}@?kBCwA"
+                     },
+                     "start_location" : {
+                        "lat" : 44.096592,
+                        "lng" : 15.271447
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47.6 km",
+                        "value" : 47576
+                     },
+                     "duration" : {
+                        "text" : "24 mins",
+                        "value" : 1415
+                     },
+                     "end_location" : {
+                        "lat" : 43.8386788,
+                        "lng" : 15.8840643
+                     },
+                     "html_instructions" : "Take the exit onto \u003cb\u003eA1\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eE71\u003c/b\u003e toward \u003cb\u003eSplit\u003c/b\u003e/\u003cb\u003eŠibenik\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "e|flGe}f}ABU?GAQCSIu@CUIm@Ks@Go@AGIaAE{@A{@@iAD{@Dk@R{AF[FSNm@FSl@_BbAuBpAaCv@_BZu@Tc@tCgGp@}Ar@}Ap@}AlBmEpBkEx@cB`DwGr@wAjBoDt@uA|AsCVe@LU~Qi[dEuH~D{H|A_Db@aABC`@}@Ra@pDoIrAeDvAmDfD_J~CeJlCuIHWFShC}IjCwJjKqb@jCuJr@}BPk@pAgEvCmJv@}BhBiFhDaJrAaD`B}Dx@kB`CkFdEuIrDeHXg@|@{AvCeFlEiHHMrDyFLQBC^g@PWjEgGpBkCvBqCvJaM~BwCZa@xKgN`EaFtGoIxEcGbDaEZa@jLyNLO@AJMnPyStG{IxC}D|@qApAsBpCaEf@w@vCqEvBiD|FaK~AiChDqG`GsK|EiInFmHxD_ELKHGBABCFG|FqEpBuAlBoAnD}BpBwAh@]rDiCdIoF^WvGmEjCkBv@q@fA}@dBgBpC}C~@qAbDuEvEsHbEkGLUFIHMtEoGvFqHrEoFhCqC\\_@fAkAzAwAh@c@bEqDpCqCXYbF_EjCuB|C{BrE_D~HsFhGqE~FwE~F_F~FiF~A}ATSBCNQnBkBtF}FpFcGfCsCfAoAfFqGdDiEdBaChBiClC{DbDkFzBmDLS@CNUt@kAdFoIjDwGx@cBzG}Md@_AtDkInDsIbGeOrFeNBErHgRhNy]Ti@xFwNL[L]`P{`@xDcJpAsClBkEh@iATg@fCiFjEsIpEkItEeI|DsGLSJSBC`FyHfFsHhEcG`@k@pFgHrFcHv@aAx]mc@tRiVlFaHlFgHhFoHfFyH`FaI~EmIlDoGVc@P]pEwIjE{In@wATg@zB}EzDcJJUhDoInDgJfDiJTo@jC}HnJgZ@CdGkRbDqJjDkJpDgJjBoEjAsC~D_JbE{IjEsInCgFh@_ATe@@ArEeIZg@zDqGxEqHR[hEmGlAaB~Vs]r@eAzE_HtEeHnEmHl@cAzCmF`EsHrH_OdAsBpD_InDcIhDiIdDmI`AgC\\_A~@iCBERi@bCeHvC{IzBiHPk@BIL_@rGsTrCmJp@uBRi@tAiEbD}IlDkIhDqHJSxD}Ht@sAnCeFnEmHvCiEDGrNwSvEiHnEsHbE{HzDaItDiIzCmHPc@bDwIxC}IjBeGPk@Rq@zBiIBGHYfK{a@lCgJ~C}IdC_GRe@@APa@@CtD{HzDsGvDuFbDcENSpDcElDqDtBwBzIcJ|AyA|A{AtAqAfBmBnA{AhCiCLONQxDqD|E{E~BcCpDsDPS@APQ`VcV~^e_@dBeBfBgBdBgBbBkBlAsATYbBmB`BoB\\c@`AmAzAoBxAmBxAqB~@sAV]nAkBFGtAuBtAwBrAwB~@_BhBkDpAyBnA{BLU~@iBjAaCjAeChAeCbA{B`A}BPa@n@}A~@aC~@aCFOt@qBz@cC~@oCp@qBL]z@qCz@sCx@sCv@uCl@yBH]t@wCr@wCp@yCp@{Cn@yCj@{Cd@_CF[h@}Ch@}Cd@}Cd@_Dd@_DLeAHo@Hi@|Ec`@lAiJTgBl@oEL}@Hi@XsBZqBZqB\\qB\\qBxBsLvA}H\\eBr@kDt@kDv@iDf@wBhAyE|@mD|@mD|@kD`AkD`AiD\\mAb@yAdAiDbBqFX{@Xy@r@wBhBmFpAqDZw@lBiFrBeFrBcFpAwCRi@P]vB_FzB{E~BwEvAsCh@eAhC}EjC{Ez@yArA}BnCuErCqEP[`CsDvCkE"
+                     },
+                     "start_location" : {
+                        "lat" : 44.11347480000001,
+                        "lng" : 15.4416314
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 2004
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 43.8428233,
+                        "lng" : 15.8992541
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e21-Skradin\u003c/b\u003e toward \u003cb\u003eSkradin\u003c/b\u003e/\u003cb\u003eD56\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "wfqjGkj}_Bt@g@z@q@dAi@x@Qx@MbB?rAAL?FANCLELGDCLKJKHMHQDGFQDSBS@I@I?M?OAM?ME]COEOCMEMGMEMGKIKGKc@s@OYEIIOEKAAUc@uAsCa@_ASe@Qe@ISOe@EUGWEUEWCWEWAOGqB?gA?{ABqALwJBmBHiF?C?]A_@Ca@E_@E]I_@I[K]KYMYKQCEQUQUQQSQSMSKAAUIUIWEUCMAI?U?C?SBI@C?G@KBK@MBUBa@DO@Q@Q?O@c@Aa@Aa@Ea@GWEIAYIGA_@M[KCA]O]S]S[UYWA?WWY[UYW[Q]KS"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8386788,
+                        "lng" : 15.8840643
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.5 km",
+                        "value" : 3525
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 237
+                     },
+                     "end_location" : {
+                        "lat" : 43.8184179,
+                        "lng" : 15.9242163
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eD56\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s`rjGii``Bn@}@NSLObA{AP_@d@k@n@aAPUTYRYT[NUP[NYLWN_@L_@L]L[Pi@Pe@JWHOFMHKFIJIHEz@a@TKtB_A^QTO^[^e@jHqI~@oA~@mA@Cx@eAz@oAt@{AJYLWJQ\\m@LOHKJIFGHIVYNQHO^o@`@w@Rg@JSHWBKJUFIJUFIRSPUPWNYNYFMFKFOL]T]RYPWBEJMFG@ABADABAB?D?B@B@F@ZJb@RZRXXLJHFHDHBPBL@XETGHEXOn@k@t@o@t@{@hA{AVg@@Ch@eA^w@^o@T_@XYPQf@a@d@[p@]PKZQ^Wh@g@X]h@m@lAqADGZa@V]BCXc@FKDGHOXe@LQFGNOPMPKPIRGb@Md@Kt@Wt@Y^OTMf@c@NQPODEX]LQLOZc@Z[X]Z_@\\c@d@s@R[R]R_@HOJWFKHSNc@`@mA^kAr@sBZw@N_@HOJSDIHORYR[f@a@VOXMTKJCJGREz@SFAt@OZELCxAWbAQVEl@IJEHE"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8428233,
+                        "lng" : 15.8992541
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 43.8176922,
+                        "lng" : 15.9242399
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "chmjGkee`Bp@@B?`@AH?n@C"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8184179,
+                        "lng" : 15.9242163
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 43.8176078,
+                        "lng" : 15.9238227
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qcmjGoee`B@N?J@L@H?H@D?@?B?@@@@@BB"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8176922,
+                        "lng" : 15.9242399
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 43.8178594,
+                        "lng" : 15.9232192
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "acmjG{be`BYj@GLIJABCDAD?D@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8176078,
+                        "lng" : 15.9238227
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "327 km",
+                  "value" : 327358
+               },
+               "duration" : {
+                  "text" : "3 hours 10 mins",
+                  "value" : 11380
+               },
+               "end_address" : "Zagreb, Croatia",
+               "end_location" : {
+                  "lat" : 45.8150051,
+                  "lng" : 15.9819194
+               },
+               "start_address" : "Skradin, Croatia",
+               "start_location" : {
+                  "lat" : 43.8178594,
+                  "lng" : 15.9232192
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 43.8176078,
+                        "lng" : 15.9238227
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sdmjGc_e`BA[?E@EBE@CHKFMXk@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8178594,
+                        "lng" : 15.9232192
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 43.8177487,
+                        "lng" : 15.9247327
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eD56\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "acmjG{be`BCCAAAA?A?C?AAE?IAIAM?KAOAGCa@AICm@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8176078,
+                        "lng" : 15.9238227
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 43.81792129999999,
+                        "lng" : 15.9248119
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eD56\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}cmjGqhe`BIGECGCI?"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8177487,
+                        "lng" : 15.9247327
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.6 km",
+                        "value" : 3600
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 279
+                     },
+                     "end_location" : {
+                        "lat" : 43.8428691,
+                        "lng" : 15.8993182
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eD56\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_emjGaie`BCFELGLGJGHABGHIJKHIFIFKFA?IDKDm@HWDcAPyAVMB[Du@NG@{@RSDKFKBUJYLWNg@`@SZSXINEHKRINO^[v@s@rB_@jAa@lAOb@IRGJKVINS^S\\SZe@r@]b@[^Y\\[Z[b@MNMPY\\EDQNOPg@b@UL_@Nu@Xu@Ve@Jc@LSFQHQJQLONGFMPYd@INEFGJYb@CBW\\[`@EFmApAi@l@Y\\i@f@_@V[PQJq@\\e@Zg@`@QPYXU^_@n@_@v@i@dAABWf@iAzAu@z@u@n@o@j@YNIDUFYDMAQCICIEIGMKYY[Sc@S[KGACACAE?C?C@E@C@A@GFKLCDQVSXU\\M\\GNGJGLOXOXQVQTSRGHKTGHKTCJIVKRSf@a@v@_@n@INOPWXIHGFKHIJMN]l@KPMVKXu@zA{@nAy@dAAB_AlA_AnAkHpI_@d@_@ZUN_@PuB~@UJ{@`@IDKHGHIJGLINKVQd@Qh@MZM\\M^O^MVOXQZOTUZSXUXQTo@`Ae@j@SNq@x@Y^KNQTo@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 43.81792129999999,
+                        "lng" : 15.9248119
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1197
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 43.8374733,
+                        "lng" : 15.8900577
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`rjGwi``BHLJRP\\VZTXXZVV@?XVZT\\R\\R\\NB@ZJ^LF@XHH@VD`@F`@D`@@b@@NAP?PANA`@ETCLCJAJCFAB?HARCB?T?H?L@TBVDTHTH@@RJRLRPPPPTPTBDJPLXJXJ\\HZH^D\\D^B`@@^?\\?BIhFClBMvJCpA?zA?fAFpB"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8428691,
+                        "lng" : 15.8993182
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "306 km",
+                        "value" : 306152
+                     },
+                     "duration" : {
+                        "text" : "2 hours 38 mins",
+                        "value" : 9476
+                     },
+                     "end_location" : {
+                        "lat" : 45.7167514,
+                        "lng" : 15.8631053
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork, follow signs for \u003cb\u003eZagreb\u003c/b\u003e/\u003cb\u003eZadar\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eA1\u003c/b\u003e and merge onto \u003cb\u003eA1\u003c/b\u003e/\u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eE71\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow A1/E71\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "e_qjG{o~_B@bAH~@Hz@D`AFzA@bBIjBQ`Bc@~Bg@zA_@z@Wh@Wt@kGzI_@h@gBpCeBpCcBpCcBtCKNuAdCaBtCiBbDeBdD{@~Ag@bA_B`D_BbD}AbD{AdDiAfCQ^CFSf@Uf@c@dAoA~CoA`DoA`DmAbDKVcAnCmAjDkAjDu@vBIVKZkAlDgAnDy@jCMb@gAnDeApDgAbEeAbEcAdEcAdEQt@i@dC{@zDy@|DaAbFm@vCw@zDGRm@hDu@|De@tCa@bCa@bC]dCc@|Ca@zC_@|CmBlO]vC_@hDa@hDa@fDc@hDYpBKn@?Dg@bDg@bDg@bDk@bDk@`DQbA[|Ae@dCg@fCi@bCi@dCk@bCm@bCm@`CSv@YhAq@~Bo@~Bs@~Bs@|Bs@zBO`@gAhD{AfE_AfC]z@_BbEoAxCQd@eB|DgBzDkBvDmA`C]p@oBjDmC`FuA|BoB`DgBpCIL}AzBU^wBxCwBtCyBrC{BpC_CjCi@n@uAxAaCfCaCbCeC~Bg`@h`@oOrOiDjDQPABMLeIhIeHbHaB`BOPQN}C`DkIlIcAjAyC~CgBdBqApAeBfBsAtAaEdEoC`DiAxAkDtEcBbCgBrCyDjH_BdDS`@?@Sb@g@bAeDjI{ClJkCjJoGvVkAvECHu@xCaBpFOj@]fAqC`JcDzI_BzDyArDmDfI{DhIaExHkEpHmE`HqEzGaKvNEDk@v@kEdHgEzHWf@eEbIeDdHYl@Q`@cDlHgDvIiDfKeMjb@Wv@Oj@}AhF{CfJwBdGSh@_@bAgAvCc@fAuExL{DpJqJnSKToDpH{DxHmEdIqAvBaC~D_EvGKPyEhHmAdBkCxD}R~WUX}IrM[d@_FtHqCvE{@tA_FrIIR}DnHmBrDwApCcExI_ExIuBbF{@pB{C`I{GpQsClIwChJsAdE?ByOhf@Qb@iCbH{ItTYr@aEhJqApCSf@oAlCgE|IqEjIe@z@Wd@mCzEkErHqErHyEbH}EdHkF`H_FtGuMnPwF~GABeFpGmV|ZyDzEuFjHiBdC}BzCeFnH}EhH{BpDMR?@MP}@xAoErHuE`IcEdIaEfIiA`CUd@yAzCGJuDrIuCfH_Pr`@M\\O\\sOl`@yOz`@a@bAyFlNg@lAkIfS{D~Iy@dBiClFcEjIaIhNeBxCc@t@MTA@KRs@nAiBpCmDfF{AxBuArBa@`@_H~IuFjHoFlGqF~F}F|F_@VKJGDSPs@t@_CxBkGrFuFpE}DzCgBrAo@b@uB|AuDhCkChBuCrBeChBcD`CqB~AoDvCmAdAmAjAqDdDIFoDnD[Ze@d@sFfGiFvGiFxGcBjCMNABILaBdCyLfRUZsAjByBhCqDbDuAnAuGrEyCnB_@VaKvGcCbBqBtAmD|BmBlA}@r@uEjDwAfAIJC@EDA@STgA~@y@`AwDlEoB|CkBrC{JjQaF~IGL_E~G{BrDmApBCDgEvGYb@wBzCsApB_AtAoCpDgFfHqBfCeBzBaE`FkAxA{BpCKL?@KJqGbIY`@iC`DOPaJfLyHtJcCzCy@dAuLhOY`@sLhOkEtFa@f@iFfHKPOTA?ORU\\IL{CpEg@z@kDrFqDnG_@l@y@xAqChF_EjIUd@sCpGsCrGu@dBkDdJoBvFs@pB{CfJs@~BgBzFoC~Ji@pBcBrGwGvWkC`KaClIOh@?@wClJaDlJiDfJeAhCkBpEwDrIQ^s@|AwBnEcE`IgEvHgKbQcEbHW`@A@_@n@gAdBmBtDkBrDu@xAiBvDu@~AiB`Eu@`BeBdE}@jByC|Gi@fAWh@CFaB`Do@nAq@nAcB|Cw@lA}AfC_@f@SXSXcA~Am@z@sApBwB|C{@jAwBxC}@hAGLONEFSXOPe@p@iAfBA@a@p@gAhBeAjBa@v@cAlB_@v@gA|BqE`KmBlEcB|Dw@bBw@bBa@v@a@x@eAlBc@v@gAhBkAhBe@r@g@t@k@v@i@t@wAfBk@r@]b@{@`Ai@l@wAxAi@j@wAtAm@h@yApA{AnAc@ZIHo@b@m@b@{A`Am@`@}A~@uAt@iAj@s@\\kBz@u@\\m@Ru@Xq@VeBh@a@LODgBf@s@PeB`@iB^_C\\C@{ATm@Fu@HWBE@cBNk@DU@U@[B}@Di@@uAB_A@e@Ay@A_BCcDGg@AW?q@Ea@CyAIeEWEAaDUm@Cc@CsAIiDMiDKsACmCAeAAmC@gA@mABwCFkABiADO@gCLmAJ{CV{C\\oC\\oC`@gAN}@Ny@P{@LwBZy@JsBTy@HsBNsBLeBBgB?q@As@AgBEe@E_AEeBMeBQeBSaB[q@Mq@Oo@QaBc@o@S_Bi@o@U_Bo@YMUI}Aw@}Ay@o@]{A_AyAaAm@c@k@a@wAiAk@g@i@e@y@s@_@Y_BsAwIkH[Yo@g@_BoAaBmAQK_@WaBiAcBcA{@i@w@c@aB_Ak@YMGq@]OIwAq@AAa@QiAg@sB}@{@[{@[_AWuGwB_JoCw@Uw@WoBq@oBs@mAi@_@MoB{@[MKGECQIk@WcAg@aBw@eCwA{BsAsA{@o@g@wAeAkBuAm@c@YUsAcAi@c@YWKKg@a@mByAOMu@q@u@m@s@u@eBcBsBgBs@k@wB}A{@m@}@m@yBuAaFyCeB_Aq@_@s@_@aBw@EAgBw@s@[s@Ys@YiBo@_Bg@AAGCcBg@aBe@q@Qq@QoBc@[Ic@Io@MoB[sCi@_C_@mCg@A?CAk@Ki@Mi@OC?g@Mi@Oi@Oi@Oi@Si@Qi@Si@Si@Ug@UGCa@Sg@WYMOIg@Yg@Yg@Yg@[e@[g@]e@][UIIe@_@e@_@c@a@g@a@e@c@g@c@e@e@c@c@UWOOc@g@e@g@a@e@AAa@i@c@i@a@k@a@k@_@i@MSQW_@k@]m@]k@]m@]o@Q]IO[o@[o@[q@Yo@[s@Uk@s@gBeCyH_@sAOi@[sA]uAYwAAAWoAWuAMu@G]My@EUAGIk@SwAOwAACOsAMwAMwAMyACi@Eo@G}@E}@E}@C_AC}@A_AC}@A_A?}@A_A@}@?{@?C@y@@{@@y@B{@By@By@B{@Dy@Dy@Bq@DgAHwADu@NiBFu@\\yCVeBJq@Jq@Lq@Jo@Lu@rBmKJm@bAiFD[DWJm@NaANaA\\eCLcAJaAV_C@GDi@L}AHeAPiCFaADaANgEBaA@cABaA@cA@aA?cA?eCAaCAaCCaAA}@I_CEaAE_AEaAOaCGaAI_AI_AK_AI_AM_A]{CEYMaAIk@Y_BKq@Oq@Mq@Oq@Oo@CM]qAc@_BSm@Ka@Ma@[cAq@_Bs@}AQ]e@{@u@uA_HyLUe@uFmLCESe@k@kAk@iAYk@[i@[i@[i@]g@y@oAg@o@i@o@g@m@sA{Ai@i@e@c@IKq@k@o@k@q@i@q@i@w@]q@[}@a@qBy@w@[y@[sAc@UIkBm@kBi@SIMECA_@O]O_@Q{@c@_@S]S]U[Us@i@ECWUCAu@q@s@s@YYq@w@o@{@W]W]Yc@We@Yc@m@kAWg@k@oAUg@Si@Si@e@sAQi@Sm@_@uAMi@Ok@Os@Kc@UiACOUyAKm@Q}AQgACSQqAa@cDqA}JCSQsAOkAi@_E{AqLe@yDm@wEGc@?AGe@[oBkBwN_AmHa@wCGm@AAGm@o@{EOoAo@aFi@_EuAyKSyAmDuVE_@k@oEOiBKiBGwAA_@?K?EAm@A{C?[@u@NoCRuCh@{Ft@kHNmA\\yDf@qGZwDj@uJ?A?GH}BXcHNaIDiCFqKDgE?yACuPe@iSG}AKgDQ{CWyE?Eg@wIGsBGaBEqBAcE@QFmCJuBBWJsALyALcAJaAHo@vAsL~@iIb@iENqAR{B^mERyBJsAZkELmBJ}AXmETmEDe@PgD`@aJ@EJmD@sAL_F?iA?eAAeAAeAEcAIeAI_AKeAMaAOaAQ_AU_AMc@GWWy@Yy@[u@]u@]s@a@o@KOW_@c@m@e@k@g@i@i@e@EEc@_@m@c@i@]CAm@]cBo@aAUCAeAQgBOc@AiAAgADs@FSBkB\\oAh@MD_Ab@yA|@y@p@sAnAUZ{@dAyAbCc@|@SZw@vAoAdCGHgAhBuAlB{A~AOLCB]Zk@d@[RaAr@CBkAr@eAl@A@o@^qAv@eCfB_BvA_@\\q@|@m@bAcAjBaAlBi@lAAFa@fAg@hBGRm@~CSrAKn@gAjHWrAWxAOx@Sz@a@hB]zAo@~Be@zACHk@dBm@dBo@zAu@zAo@dAY^w@x@{@n@u@^IF_@NYFi@L[Bi@DcAAQAq@C_AO_@KQGgAg@o@c@sA{Aa@m@OUSe@Sc@[u@YgAKc@YkAGi@OaBEeB@aB?AB_ALkAPgA?CZsATw@\\eA\\}@Zm@Va@JUfAeBHOhC{Cr@k@PYhAqA`AkAj@q@x@qAt@uAh@gA\\s@p@kBPo@Pk@hAkELc@j@eCd@gBV{@BOr@aBz@yAh@u@dAeABCVQn@g@dAi@j@S\\Qz@QbAUdASz@Mr@KhA]`@OJC|@[rAo@j@[l@c@vAiAd@e@XYpCyDXc@z@kBt@iB@CRi@Pi@Vy@p@uC`@sBRsATuCLyBHeBBm@?_DEkDACYkEMeCKeASoCAGGqBAQ?{@Aq@?eC@q@ByBL_CJ{B^kEDi@f@yD@C`@yD?E^yDT}DHgCHiBBqC?aB?q@?m@G{CCe@AIAMSuBUoBE]aAqFYmAk@eCw@oCgAmDM]_BgFg@iBUy@s@uCIa@AEAGACKi@Oq@eA{F{@iFS_Ai@gCKa@}@{C?Cs@aCsA_DiAmCq@wASY}C}EYg@S]mFmG_EqDcGiEg@]sEmCqEmCgAo@e@WoAy@mAy@oAq@oAo@aB_A_@SKGkC{AmDsBUMcCwAaB_Ak@]mC}AqAs@oAu@cDiBYOECuCcBcGgDqI{EwBkA_NwHe[gQA?{CgB{CeBeLiGqIuE_@SiJcFuFyCuFwCGECCsBsAAAo@]cGiCkF{B_@QeBs@kFwB]Ie@Oe@Ok@Om@OaEeAqB_@yAUkAQmEg@qAKoAKeJ_@oHWkFIYAE?W?E?o@CwAEkBEw@Ag@C]?M?O?W?cBAaB?m@@oCB]@qBHuCLoAFU?y@DoAFoAD[@m@DgAJe@Dc@DiALgANE@aAJgANgAPiCf@I@aANuCf@eAPoATuCn@oAZuCt@kA\\wC`A{Ad@i@Pa@Ng@NoDpAqJbE]N]PcAd@cAd@a@Vy@d@KFaAn@cAv@a@\\_A|@y@x@]\\SXGHs@x@o@`A[d@q@dAm@dAKV]p@k@nAe@lAs@vBEL]fAc@|A_@zAOn@YzAWzAId@AFi@vDa@rDe@bEIp@?BKt@WhBAJG`@?BG\\E\\Kt@Kt@AFWzAKn@Mn@GTYrAe@jBOl@St@g@~Ai@|Aa@bAITIPc@fAq@rAq@pAYf@o@`AGL{@nA]d@}@jAg@l@WX_@b@aA`A_@^c@^}@x@WVgBvA_Av@mA~@q@l@}BlBED{B`Bm@b@WReAv@g@\\_@VmChB_CzAWPoAt@oAv@oAt@aDfBcDdBqAp@yCvAuAn@cAd@yCrAmAh@gAb@EBODA@A?]L]NoDjAeA\\QFwAd@m@Ra@LA@A@QD{Bt@uCx@kAZiA\\A?}HfBwAVKBqBZmEx@SBoBV_Fr@QB}ARoBVgBVo@JaDj@iCh@eARwAZwA\\mBj@mBj@SFUHWHc@NkBj@gBn@e@PcA^iBr@gBr@gBv@eBv@kCxAyDrBkItEe@Ta@VwHlD{B`AGBuBx@_Cx@_Ct@_Cn@cE~@gEv@eEj@cDXs@Js@Hs@FeMNc@?E@k@?_CE{BGc@C[AkCQgCSC?{AOo@IkC[eAOs@MiB[mAUuCi@kAWqCu@CAcAYqC{@aBk@i@QcA_@eA_@cAa@eAc@]MyDkBiJqEqDcBGE}@_@}@_@{@a@{DwAkCy@a@MoAa@_Cm@eAYcCi@eCg@cCa@eC_@a@E{@KgBScCUcCOoCMy@CeCIgCCgC?mEFgCH_CLG?gCPeCTgCXgC\\eC`@gCf@gE~@cCn@cCr@eGrB}D|A{B`AyBbAqBdAoBbA_DnBiBhAyCrBcBnA_BnA_FbEaDxCCBWVaB`BmBvBwDhEc@f@e@h@aFzFiDtDCBi@l@w@v@wAvAqBpBmAhAeFzEoFxEgBxA{CdCgGxESNaHtE}@l@gGxDmC|AKF{CbBaB|@}Ax@gGxCyBtAgBhAuA|@cBdA_BbAgAr@{AbAsA|@iAx@eAr@yAfAqA`AaAv@wAjAyAfA_Av@mAdAqAhAq@p@IHuApAgAbAiAdAmAjAcEbEk@j@uGvHmAxAo@z@wGxIcE~Ea@l@?@eA|AeA|A_AxAU^QV{@rAsB`De@r@oCxEWd@y@xAmCzEwAlCcBdDiCrFyAbDwB~EuA|CaCdGyB`G}A|DeBfFGPSj@uAdE{A~EsAtEmAbEcBlGgBdH{@fDI^uAfGuA~G{@dEqA~Gw@|EiBhLKn@sBdNg@nDu@vESlAOx@UhAe@fCc@tB]fB_@bBS`Aw@bDk@~Bm@`Ci@lBe@fBo@vBs@|Bg@|Ao@lBs@rBk@`Bs@pB_A~Bw@nBo@~Aw@fBcAzBk@jAq@tAu@|Ai@jAg@bAo@jAo@hAs@nAk@`Aq@jAu@nAw@lAw@jAq@bAq@`AaAtAq@bAq@|@m@x@o@x@o@x@q@v@s@|@eAlA_AdA{@~@q@r@k@l@w@x@}@z@_A|@URQRmAhAwBlBs@l@gAz@_BnAyBdBgBvAoAdA{ApAiB`B{BtBc@b@_B~AoBtBs@r@cAjA[ZoB|BkAtAuBlCk@t@mCrDqAjBaBdCmBvCqAxBu@nAw@rAo@hA}@bB}AvCk@fA_BdDs@xAa@~@qAvCkAnC}@xBmA`D]|@mAhDyAdEy@bC{A`FyAdFm@zBsBlIiCpLwAnHKf@qB`LWdBYpB_ArGMfAA?_@zC_@vCu@`Jk@lHWzDc@`IOtEW|GoAxf@a@bN?B]hGM~By@rKcAlLmAvJCNUbBq@pEUhB_B|JiBvJiB`JsC|LcCbJm@hBmE|MmDzJ_@hA{E~KkDbIcGpLsCxFgF`IkCzDQXA?QVoGlJyFbHeGzGmFrFsBhBqAjAeA`AuGfFwG|E}GdE_HzDA@sAp@oCrAy@`@{P~HA?kQlHc_@bPe@RwJhEkHtCkGxBUHwHrBsH|AmGdAUDwGn@u@D}E\\S?sFNiDBsA?oHOaCCmBIkH_@qCQsB[{Dq@sEu@{FoAoGoB{DoAoFmBiGuC}LgGiF_D[SeGiE}Aw@}JiFkAo@kAa@mTgIoGmBgA]kGwAmFiAo@M_@IA?]ImASMCiHmA_Ek@sFi@uCWwCWyH[iEOo@AcEEqB?M?c@@{BBw@@K?W@yAFmFZiFd@wBPaDd@kDn@eKrBoE~@uFx@yFXsADaBD}FM{He@u@KkAQkBY{JsBqAYiCm@cGq@sAUqBGeAG}ACmA?iB?}GXwEj@aDh@sAZgD~@cDjAo@Va@P_D|AE@gAn@wJdGgB~@mDtAeC~@{AZy@PgCXaA@aBHc@BeDNaH^y@NqBf@eBh@uBz@cAd@cCpAaC|A{BfB}@v@sBvBy@|@gEhFiCnCq@n@UToC|ByEjDqAv@cAl@wCxA}CpAyP|G}CrA}CzA{C|AgFvCwCjBcAp@gCbB}HvGsFdFm@r@eDlDqBjC_AhAGDiMnNcCzBcC~BeA|@y@r@oDvCcD|BqCdBgDzByCdBwBbAi@Tc@RkBv@_EjB_EvAwJpD{FdCqD`BgEvBi@V_@RkB~@yAz@kBdAsD|BcEpC{@n@_@V{@n@[X{IxGsDdDg@`@uClCSPeD`D_B|AaB|AkM~L{D`DmBvA_CdBaCtAuB|Ag@VWNgBdA}BjAMH{BfAa@PiDzAmBp@s@Zo@Vm@TaDfAUHsBh@}Cz@UFiAXqAVsDp@}Dl@cHx@kAHaEXY@c@BWBw@BwAFcLd@wGb@}BLW@oCZgCZYFs@J_BVyB`@{AZ]HiCn@wCv@wAd@iA^iBn@eBl@cDpAgClA]NcGvCgCvAcAj@aItEc@VcAd@wAp@wCfAeBl@aCn@qCh@sATiAPsALcJt@sE^QBaBTi@D}Dr@gBb@yAZ{@VoCz@eBj@cAb@sErBu@`@GDmBfAc@XiBlAsCxBiFrEoEzEi@t@aApAY`@CBmAxAm@`AyA~B_A~AiBhDMVILoBpEOXSf@Sf@q@`Bq@fB}ArEY~@k@dBCFCHM`@k@hBIX_@lAkAbD_A`C[p@Uf@OXm@nAg@z@]j@cA~AgB|Bw@z@y@|@u@p@iDnCo@b@{BtAqEnCcDlCIHqBnB{@~@sBfCiBjCi@x@OR]j@k@~@mAnBsBjDyAbCk@|@_@j@wAtB}@hAi@p@sAzAEFeAdA}BjB}AnA_An@yCfBcAj@sDxAw@TC@]LKDqCp@uAV_APyB\\cC\\eCh@qD|@}ChAaG|CkBbB_CvBqBzB_AlAUXk@x@eBpCsAlCs@~AYv@s@xBCFoA|De@lB}@xDYpAq@tDSjAMn@QjAm@nDa@~B?DWvAA@[zAU`Ak@pBI^Yv@Sl@m@xA_ApBk@fAUd@A?o@`Ay@dAe@l@o@t@{AzA_BtAy@p@yAnAm@b@m@f@eBbB}@z@cAnAgB`Cg@x@uAdCaBdDqAfDkAlDa@vAYlAOl@WdAs@pDCTYhBe@`DIh@_@rBUlAg@|Ba@~A_@pAo@jBA@k@zAo@xA_@x@m@~@c@t@u@fAc@n@s@|@i@r@[^y@x@{@v@{CbCuBzAaBfACB_@TgBjAmBzAe@\\iAz@aBxAaBzAqAnAqBtBwAzAsDlEcC~CkBhC{BjD}C`G{DvIeCxHwBxHeA~DkArGa@zByAnKcC|QcBnLs@nEi@rC_BnImDtP{B|Is@hCCJi@jBOh@ADIV?@IXUx@wApEEPCFIXoC|Iw@|Bi@vASf@cAxBqBhDqAfB_AfAWXm@l@_BrAaBhAcB`AiBv@oDtAa@NyChAmB`Aw@d@iBnAeBxAaBbBo@t@QTY`@m@v@GJc@n@oAzBmAbCcBlEu@nByBbFe@bAeBpDiBjDg@~@kArBmAtBkAlBgEnGa@h@sDxEiAtAiCrCQRQN_FxEmK~IKJyC`DkAnAgCrCmCvDo@bAwAzB}DpHcAvBUf@KTA@KVCBqDrIEPIPO\\Q^eB~DgE|IyBjEqAjCiBfDiCjEkB~C[h@gMfSc@r@uAdCWd@Yb@EHgCbFaCjFoC`HM\\wBlGmGbRaA`DAD{@vB[p@w@xAgBrCu@dAcB|BW`@EDEFoAzA[\\ON{AvAiAz@[TEB_Ar@[Rg@\\eB`A_@VkClAeAb@oCz@gAXsCj@g@Ha@DsCXgBFm@BqF?s@As@?s@@g@@K?s@Bs@Ds@Fs@Fs@Hu@Js@JMDe@Hs@Ns@PsEbB}CtAaAl@SJC@]PmCtAuAx@aDtBEDsA`AaDjC}CvCwC~CEHcRtX}@jAkArAsBtB{BhBoD~BcEdB_A^QFMDI@w@X_@NYJg@R_A`@_@P[Nu@`@[Pu@b@kA~@_@ZEBYVIFIFc@^]\\_BjBw@bAEHg@r@oBpDi@dA[l@u@~Aq@bBSf@[v@i@rA}@jBeAxBy@bAc@b@}A~AeBtAaEpBg@Lc@JkCn@y@RoBn@cAf@m@XcAn@cAt@aAx@_A|@{AfBsAnBoAxB_@l@mAhBk@~@gBrBm@j@w@v@_BnAMHiAt@kAp@g@T}KxDgB|@cBjA{ArAuA|Au@`AkF`I}@lAcAfAgBdBoBvAMHWNUNQJuBbAqAd@qA`@UD{Bb@s@PaAVkBj@KBsBt@e@TkAd@sAp@]PgCz@i@Zi@Zk@Xi@Xi@Xk@Vq@ZKDc@Rq@Xq@Xq@Vs@Vu@LuANaCLuA?m@?a@CwBOoASmAWmA]mAe@oBaAgAq@gAw@cA}@cFaF{@}@CCo@g@_Au@sBsA{BkAGCwBy@cCo@MCwB_@_BMc@EA?sACsABsAFsANqARoAXoA`@oAd@kAh@A@kAn@kBtAcC`C_AfA_AnAs@hA]f@GLc@v@U`@eD~GkAtBoArBmEvFgI|HQL]Xi@j@aBpBwB`DOToA`CA@eA`CO\\Ur@ABUn@m@~BABq@nCk@rC_@jCWlCQpCIpCApA?xB?rBGpHKhHIzAIfB[bEa@~DS~AYdBm@tDw@vDaApDuCjJmEpNiMl`@oA`Fe@rBS`AOp@aAjF]vBs@pFg@xEAD_@lECd@w@tNCp@QtCEp@A\\QvBSbCs@dGoAbLIp@UjBw@fIk@pH_AlVIlDG|@G|@OlFcAvKwAhJeAnEOl@sArFu@vBa@hAaBrD_AjBoBfDaDjEU\\oB~Bw@|@EDWVuCfCaBbAaBbA_@TyA~@}EdBmBh@sBh@C@qC^_AJc@Fw@JS?cBF{B?wBIcFo@cB]IC_Cq@eD{AsB_AcBw@oB_AoBcA_CeAcBo@a@QKCcEeAmDo@wDS}AKM?uGBcGFE?]AyDK{Dg@_EqAyBu@mEqCkEkD{EwFcEmHaAiC{@_Cg@sAmBeGk@kBq@mBWu@M]IW_AkCcEcIkByCeBoC_E{HaDgJqC}J{AsEYy@EGUo@Wo@a@w@Ue@sCqF_FsHyE_I{DcJoCaKACuBqJGWwBuKoBoHy@{B_AwBo@sAa@s@GI{@wAgAyAKQy@kA]e@sFaGsAcBUYwB{CwBeDsAgC_@eAa@iA_AyCkGgTm@gBa@kA_CiHuBaHcAiD_BsFQo@i@eBs@yBs@cB{@gB{@wAqAsB_AoAUWq@w@qAkA_Au@s@i@aAk@}BeAgFiCqBkAw@e@eCyAkGwE}A{A_GkGwCuDi@}@EIkDuF_BeDs@aB}AkDSc@wAsDaCmHkBaHaBuGo@_Cq@iCgBgF_EyIk@iAiDkFkBqBm@k@m@g@WSm@e@o@e@q@c@s@a@s@a@s@]OIKEs@[w@Yu@Ym@SEAs@S[I}@S}@O_AO}@K_AI}@IQ?c@CIA{@Cy@?]AqF@a@Ac@Ac@Cc@Ec@Cc@G_@Ga@G_@Ga@IEAYGs@Sq@Uq@Uq@Ym@WCCo@[o@_@o@a@m@a@m@e@m@g@k@g@k@i@i@k@i@o@_@c@IKg@q@e@q@e@u@e@u@u@iAw@sAkA}Bq@mBSu@Ww@g@}B_@uB_@wB]eC[kDCe@Es@GqAC}ACcAAeAAcA?eACkDAyB?}@S{DO}BM_B?AGo@Go@Ko@Gm@Km@Ik@Km@Kk@Mk@Mk@Qw@GYMg@YcAg@cBO_@IO?A[w@wAuCGKiAiBS]s@}@[e@}A}AkBoBc@c@iE{EUUEE[]{@{@}B{BUU_@a@w@u@iDkDGEuAiAEEc@]qA_AGCw@i@}Ay@mAe@y@[[I]GaDq@gBScBE{BDk@@wDb@UFuCt@y@XoHfCw@Xy@Vw@V{@Ty@Py@P{@N}@LoJXgAGWCo@EeAKgAMgAQeAQeAUeAWeAYeA[{@[GCa@OQG}@_@{@_@y@a@{@c@_Aw@aAy@_Ay@w@w@CCYYUUKMs@u@GGq@u@IKQUaDiEaIsKu@cAu@aAu@cAu@cA[_@oAeB[a@iA{AGIs@aAqAeBY_@[a@cIsKkBgCkBeCkGqI}DkFkBeCkBgCY_@AAKMcJoLkBcCiCeDkHkJ[a@aDeE{EiG}DgFqAcBqGiIyEiGuFiH[a@mMoPqAgB[a@qFqH_@g@e@k@g@i@g@g@g@e@II_@Yg@c@m@c@m@a@m@_@m@]o@[o@Yq@Wo@Uq@Sq@Qq@Oq@Ms@Kc@GMAUAcIW[?[@]B[@]D[B[D]DA@YDYF[FYH[FiBf@eDdAMBcF|ByKpFa@Rc@Nc@Nc@Nc@Lc@Le@Jc@Je@He@He@FM@Y@e@@e@@e@?g@?e@Ae@Ag@Ce@Eg@E[E[G[G[I[I[K[K[M[M[Mm@[IE]S]S]S]U[W[W[UYY[YQQGGWY[a@Ya@Ya@Yc@Ya@We@Yc@We@We@Ug@IOMWUk@Sk@Sm@Sm@Sm@Qm@Qo@Qm@AEMm@Qq@Os@Ms@Os@Ms@[sBq@cEgAwGUgAo@wCQk@Y{@Uq@k@gBWq@Sc@Wo@i@iAg@_Aw@gAy@eAGIo@u@sB{BqBwByA}AY[y@{@[_@wCsEs@}AAEiAsCe@_B_BwGsAmHo@iCWaAQo@Su@Qq@_AmCgBuDu@wA}BgDGGsA{AsAqA]WSQoBmAWOkB}@y@[oBo@_Ce@uASkBSm@E{B@uBLoALoCd@u@La@HC@aAZUFE@YJ{Cz@oBl@uBj@g@Ni@H}@H_@@w@BI@m@@W@qCA{@EWCsAKIA_BMg@CyAQoBOoBU{BWcCYeBUyAQuGy@mAQqDg@iCa@gAYcAUcAYMEiAa@u@Wa@Q]OmAi@sBgAgAq@cAo@gCkBmBsA_CyAm@[{Am@WMgC{@}A_@{Ca@mCOgBCqA@qAFcDVoAR_Dx@yCfAiAn@ULs@^eCbBKDiC~Bw@|@iAtAaApAY`@CFeB~B{ArBQPgFfFy@lAk@v@w@`Ac@j@STQRUTYZEBaAx@kCzBgAn@OHaB~@_@TC@yC`AIBiAZcCVc@BiDTuFV}ALu@NcBX{C|@sAf@C@oBx@o@`@k@XeAl@A?sBjA}@\\aBn@eDz@[Dw@LI?}AJcA@uA?}@CQCwAKSCqC[qC]]EiDQmDCwAJqBJy@JsATQBi@NiBb@gBn@{@ZSLgCjAwBtAWREByE|DuClCuExDGDoCdBIFUJkCtAmAl@wC~@aBh@c@HcC`@oATE?gDVwBJq@@kDCgDOaAIiBSqAUeDu@sAe@kAc@KEaAc@kCuAA?MGQKy@i@aAo@uA}@sCaCs@o@gD}CqCgC{@u@}@q@YWqCwBwCkB{@e@g@WCAi@YwAw@_DuASGmCeAaDaAeDw@kDo@eBQiAO}E]m@C_FOG?yI_@eCQC?gBMa@Gk@K_BYuE}@kDaAWGeFuBcBs@WMgCoAcAm@}D_C?AcAu@a@WECqB{Ai@a@m@g@GG{DcD_HqFuA_AuAy@_Bw@_@O{@[eBo@e@M}Dy@sAQIAiBM_@C_ACwAAc@?kDHoDd@sAZa@HcCh@oAb@yCtAsCfBsExDcCjC}A`BeGlG}@r@w@j@qCfByAv@CByEtA}@ZiCX_BR}CFqAAUCgC[mAKmAWkAc@wCgAsEaDgCyBsDuDIIIIgCeCoCuBmAs@aAk@oAu@kAk@}CgAOCqCo@i@Gg@GeCS_COaD?}CHeBJoATaEx@}HzBsCv@aFj@oCHyAFcCIaAIaEc@SCEAqHoB{C_BIE_@WqCeBcMkHSKA?OIkG}BkDq@wASmDU{@CsBGgOFoDEuACoDYuASc@EqBYSC{EmAc@OcDeA_DmAIEwFgCuBiAu@a@}E{CcDyAsAa@aAa@OEMC?Aa@IyBc@iDi@kDQsA?yA?yAFuANsAPoDn@wAZ_Bd@UFE@[JoBl@uIjDyAp@oAp@wAt@mDvBwA`AgOhKYPCBC@QL_BfAgDlBqDzAyF|B_Bn@wAb@qA\\GBuB`@y@LsDp@wAJiCZG?_@DC?kDJoDCmDMwACYAsCSyASgDm@sAOmD{@}CcAcEuAmFgBo@QsBk@uAYcDo@E?wAUwAOmDUwAGoDCmDFsDJoD^sALkDn@}F~AsAf@cDnAaDbBiDrBWN}DnCaIdGq@j@sCpBwCfBcClAa@P_Ad@kA`@gF`BaDd@{Cf@yCHG?kH^uHT_ABcEr@wAViCn@aEpAyBbAoBjA_DrBeBnAmAlAg@h@}AzA}AbBs@|@aD|DEFgBtBmCzCMNk@n@sBrB}BfB{@l@mAt@mAr@{@`@a@RmAh@_Bn@gEnAwAV{B`@iBR_BJmBFw@@iB?O?cGEuB?cCJgAJmB\\}A`@uB|@sAt@WN}@r@w@n@A@}@|@e@d@aB~Bq@dAu@vAs@zAm@~Ae@xAGVq@~BiAzD[`Ak@tAiArBqA`BOLKH]VMN_@ZMH_@VOLo@Zm@VyA`@iANcAJw@@gA?{@Ku@Ou@U_Ac@w@c@]SUMKIMKaA}@c@i@m@s@mAuBu@eBi@_BU{@w@_EEo@MaBK_D?kB@i@DsBD{@B[DoAFgAB_@DeBFcD@qDAWAIAKCg@GeAQsCMeA[kDi@cFKaAS_CQmCCe@SiFA[Ag@QqGC_BKaFW{C[uCQwAEW]yBAEi@sCIc@]{As@_Ck@}AEKy@uBqAiCs@mAo@cAyAsBqEuGi@u@EIm@cAoBoDwAsCsBmE]u@CG?AMWM]m@iBkD_LMc@W{@e@_Bi@}Ai@{ACGOc@CGM[EIUm@m@wAwDoHwDyHgCkFWm@mA{CwBoEaA{BUg@Se@s@gBuDqLg@_BeIa\\{@_DoFyRU}@CESw@qAyE_Kq_@kAkEm@_CeHyTkGaP}A_E}BsFqBeEiKuTi@iAyF}LUg@{ByEuGkRqCkJsDmPG[[oB}A}Jm@iE_@iDYcCu@wHm@sHyCif@QyCi@gIu@uHeAkHg@mCi@mCCSMk@u@aD}@mDcEkMeCkFiC{FeAeByCiE_DmD}CuDY[][ECa@_@k@k@mCsBq@a@oC{AqF_DkBeAqAo@oAcAqAgA{D}CsCsCqBmBiEgGiDgGi@_A?Ai@cAOUwCwH{C}K{AyJuBkRkAiPmAmR_B{TEm@i@uIeA_HSoACOOm@yAuGmCyH]q@yB{EMWAAKU[m@qA_BoAoAwGuJQWg@u@uC{Ea@o@cCqGk@aBgBaHeCaJsAaGMm@Mk@Um@eByEqAeDEMKWEMQc@Sc@Yo@eA{BOYmCgF{A}BACQWgBmCcDkE]g@]e@aDiEcAuAGGSWaC_DMOgCmDaCcDo@aAcAuAo@}@e@u@QYy@{A}@{A{ByE}AyDcBgFOc@ACK]qCoIEKSi@sAmDsAeDm@iAg@_AkAmBoAeBkAwA}A_BqB_BoA}@gAi@kDcBsDeAyA_@iB_@mE}@YGYEQEWGaEcAg@Q_@MsAo@yAy@qAaAqAgAaBoBqAiB}@_Bs@sA[o@gFsKyCoGmBeEaC_Fu@_Ba@{@Ug@CCWm@k@gAuCmFO[{CaFW]{CkEy@eAkBgCyDoEqDkEqEwF[_@?AwCuDwAsBcDaFkCcF}@uBKWIUEIe@gAeAuCkAkDiAuDGU_A}DYkA?Cg@cCKi@s@kE{@wGs@gHKaBUyDO_FMoC?qG@cC@s@@cBRmGJkC@OV{Dz@{IPuAnAwIxAoHJ[bGsT\\kAH[@EFSxAwF\\qAJ]h@_Cx@gDh@_C\\}ARkALw@F[@Mv@_E@Q@I?AD]j@uEd@gFx@aJv@wNDo@?AH{F?EFgEA}CCoHImDMkEAe@?CAi@G{ASsIMsDQuFa@uJCw@?IE_AkAeQYwEC[?ACYMsB[wE{@}KmAkMGq@o@aHaB{OOoAIo@Kq@aAoISeBIm@CWEYIi@Ii@]qBMs@[cBEQAMCGEUgA_FGY?AI[Om@I_@COc@kBgEqMUs@s@aB{@mB}BuEaDgF}@{AmOaVeT}\\{@uASYKQ]k@cMcRe@u@AAe@s@u_@_m@kFgIk^uj@Yc@iIkMMOIOsLoQc@s@_FwG[e@uFkHYa@cJqL}EqGyM{OcW{XkFqF}A}AuBsBuFgFsEeEuEaEWWyDgDqBeBkGkF[Ue@]A?i@_@_F}DgMuJiGoEoGoEiEwCkEsCMIaCyA_IcFKEUOyFeDqEgCcGaDaDcBgJuEyE}ByLsFqH_D_M}E_UsIsCkAcEaB{KyE{IaEoEuBmEyBwIoEsMgH{@e@?AcK_G{DaCaLgHsIwFeI{FgHaFKGgL_JkLmJ}KqJmGuFiG{FuEmEqJqJo@q@sBsB{A{AaBeBm@s@aFoFkJgKkGkH}EaGsAcBuDwE{IgLg@s@oFkHiDyEq@{@kEgGmGiJgDiFkDsFaDeFmAyByKeRAA{AmC?AIMi@aA}DcHGMqCyFw@aB_ByCwGiMiEsI}BwEmDqHu@_BUg@Ug@oAkCcA}BsCwG}FaNeDeIaDeIkFgN_GcPWs@wCoIa@kAYy@yCyIyGwScAiDCI]gA?AoCeJaBsFaAmDeBeGcAqDgDgMaDcMcB}GmAgFMo@WaAsAcGwAsGoA{FuBcKi@eCYmAoAeG}@sE?AeC}M[gBiAiGYgBuA_IqAcIk@wDuA}Is@yEo@qE}@yHy@oFk@kEKo@{@}GeAaHMeACMMaAq@mF_@eDMgAQqAWqBWwBs@gGgB}Nc@sDqA{KIs@m@wEi@uEuAeL{@mHAGiCeTg@gEOgAYaCiBmOyAqLSmBy@{GEUC[AAk@_F}AcM_@gDmAyJeC_SmCoRIq@eAwHiCeP_B{I]eBmB{K}B{KaGiXCKOm@q@qCoAoFkC_KUy@_GgT[_AwJw[wC}IwDmKoCqHcEaK}A}DSi@sAgDK[GOIU{DcJyKmUsGkMUe@cAmBa@u@o@mAk@gAoBkD_H_MaDmFoBaDaF}HgDcFsHiK}DqF_C{CeAyA_@i@{AoByAiBsCkDkEaFiBqBkAuA"
+                     },
+                     "start_location" : {
+                        "lat" : 43.8374733,
+                        "lng" : 15.8900577
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.6 km",
+                        "value" : 4642
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 45.7537624,
+                        "lng" : 15.8896797
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e at the fork to continue on \u003cb\u003eE65\u003c/b\u003e/\u003cb\u003eE71\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "fork-left",
+                     "polyline" : {
+                        "points" : "u``vGmgy_B_@Yi@e@y@{@w@w@o@m@cAeA}@{@w@y@q@o@w@s@w@s@u@q@w@s@u@q@q@o@uAkAy@u@w@o@y@q@u@o@cAy@uBaBeBsAw@m@SO[QQOYQcDaC]WWQUOeD{BoCgBiI}E_Ak@uC_BmEaC{HyD}DkBSIiIkDwGiCOEeG{BwBs@{@U}@U[MyBs@}@[A?k@S}@Y{A_@iCu@mA_@[KeBq@{Ao@EAuDwAs@[s@_@o@Yy@a@qBeAwBuA}@k@mBqA_@Yg@a@q@i@cB}A{AoAw@s@o@i@UQ][w@u@[YGIuDqDqDuEwBmCcAuAgCwD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7167514,
+                        "lng" : 15.8631053
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 724
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.75784240000001,
+                        "lng" : 15.8968973
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e, follow signs for \u003cb\u003eZagreb\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "_hgvGom~_Bg@g@eA_BkAoBs@oAw@{AIO]q@s@{Ak@{Am@uAoAmCkAcCa@aAs@wBaBcF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7537624,
+                        "lng" : 15.8896797
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 261
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.75901529999999,
+                        "lng" : 15.8998112
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "oahvGsz_`BQa@Sc@Uw@Me@kCiJ?AGQAA?CEMEO"
+                     },
+                     "start_location" : {
+                        "lat" : 45.75784240000001,
+                        "lng" : 15.8968973
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.1 km",
+                        "value" : 4076
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 236
+                     },
+                     "end_location" : {
+                        "lat" : 45.7754306,
+                        "lng" : 15.9466714
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJadranska avenija\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{hhvGyl``B}DkPoA_GgAyDGSOm@EOOg@_@qAAEOg@gCaMGWIYESACYkAq@qCGYCGIa@eBiHoDoO{AmGsFwTwEqSsAiGcCkNCKk@qD}AmIeA_GYgBKo@eBqIk@uCW_AI_@I_@Ka@g@eBOg@Og@e@cBwAkEwAwEu@wB{AwEuE}MsBcGK[CICE?AAEAAOc@gA{CgAmDkCcI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.75901529999999,
+                        "lng" : 15.8998112
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 679
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 45.7793854,
+                        "lng" : 15.9522731
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRiječka ul.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mokvGuqi`B_@a@[c@CCCAKMEESc@W{@]eA[gAGMCICIEOEQYcAk@eBcAyCc@uAo@}AO]IOMSGIEEMIOICCOGOGKAMAS?K@M@qBXG?EAKIACKYGkA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7754306,
+                        "lng" : 15.9466714
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.7793955,
+                        "lng" : 15.9529555
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ehlvGutj`B?cA?GA[?W?I"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7793854,
+                        "lng" : 15.9522731
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 800
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 45.7865321,
+                        "lng" : 15.9519269
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJadranski most\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ghlvG_yj`Bc@FI@s@JiD`@sANm@FG@e@Dq@H_@BcAJuD^g@DcAFaAB_ABY@wABU@G?k@@S?O?i@@I?gB@SHGHCB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7793955,
+                        "lng" : 15.9529555
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 45.7872087,
+                        "lng" : 15.9538988
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSelska cesta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ytmvGqrj`BWaBQwAMaAKe@IY[w@MKOI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7865321,
+                        "lng" : 15.9519269
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2456
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 428
+                     },
+                     "end_location" : {
+                        "lat" : 45.8071296,
+                        "lng" : 15.9675314
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSavska cesta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aymvG{~j`B[MYMa@YKGu@g@k@a@k@a@sHsEu@c@_@WeAm@e@YOIWOyDyB{AcAgAo@g@[g@Wk@a@sB}AIEOG[McBgAi@WSIu@c@yBmAmAu@qAw@IEGCKGWQ[QaCuAYSa@Uw@g@kDkCa@[aAo@k@[e@UICIAc@KoBoAyCcBeAo@_@Ui@WkCcBwA{@ECaAk@sAy@}A_AuA}@s@c@_@UwEqCSMYS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.7872087,
+                        "lng" : 15.9538988
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.8073377,
+                        "lng" : 15.9692793
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUl. Farkaša Vukotinovića\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "quqvGatm`BKQEKEMEMCOEW@M@iBA{@CgA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8071296,
+                        "lng" : 15.9675314
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.807379,
+                        "lng" : 15.9709592
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTrg Marka Marulića\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{vqvG__n`BGoI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8073377,
+                        "lng" : 15.9692793
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.807468,
+                        "lng" : 15.9738825
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Jurja Žerjavića\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cwqvGoin`BCkGK}FA}@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.807379,
+                        "lng" : 15.9709592
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.8074896,
+                        "lng" : 15.9748669
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTrg Petra Svačića\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uwqvGw{n`BCeE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.807468,
+                        "lng" : 15.9738825
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.8075902,
+                        "lng" : 15.9779167
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Baruna Trenka\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ywqvG}ao`BKmHGsH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8074896,
+                        "lng" : 15.9748669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.8076182,
+                        "lng" : 15.9792948
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTrg kralja Tomislava\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxqvG_uo`B?WA_@A_DAc@?U"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8075902,
+                        "lng" : 15.9779167
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 355
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.8077261,
+                        "lng" : 15.9838686
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUl. Pavla Hatza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sxqvGq}o`BA{DIcJEqGCaB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8076182,
+                        "lng" : 15.9792948
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 341
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 45.8107878,
+                        "lng" : 15.9836151
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDraškovićeva ul.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iyqvGezp`BY@uIZw@BU@a@@oAHs@@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8077261,
+                        "lng" : 15.9838686
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.8109989,
+                        "lng" : 15.9855347
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUl. Ignjata Đorđića\u003c/b\u003e/\u003cb\u003eĐorđićeva Ul.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mlrvGsxp`BCyCEaD?C?A?CGOEOEKGICA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8107878,
+                        "lng" : 15.9836151
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.81217160000001,
+                        "lng" : 15.9854279
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSmičiklasova ul.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wmrvGqdq`BG?cCJ}AF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8109989,
+                        "lng" : 15.9855347
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.8137322,
+                        "lng" : 15.9852526
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTrg Drage Iblera\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aurvG}cq`B}FZy@F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.81217160000001,
+                        "lng" : 15.9854279
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 45.8139837,
+                        "lng" : 15.9834437
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVlaška ul.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y~rvGybq`BAlA@\\@\\A\\C\\C\\AHETELSbAGR"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8137322,
+                        "lng" : 15.9852526
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.8144429,
+                        "lng" : 15.9826564
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eŠoštarićeva ul.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k`svGowp`BM\\QTs@vAGN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8139837,
+                        "lng" : 15.9834437
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.8150051,
+                        "lng" : 15.9819194
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTrg Josipa Langa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gcsvGsrp`Be@t@]l@m@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8144429,
+                        "lng" : 15.9826564
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "apphG}zicBhN}xAmf@srDgi@rH{`AqhAiBk}Aab@qYyt@{rAyXs|@gh@oL_v@te@gw@aKemAowDy|@c_A}g@lw@rPzgB~IhaGvRbwCpJlVhP`jFHn{C}n@|xExCnzC_lBl~Kkp@hwGakAbjC_wAhgCyaAtj@yvBzbGah@f}DfDxrGu[~bEcfAjhDscBvzDojErcEgpAxyB}eA|{@{{@rp@a_AnBo}Cjs@a|DxwFizAh_HqmFtkHqxGhzN_kCtgGe{DtiGiqChhFstBjnBqgGrqHo}DdkJkd@ftB~A`pAxiBjuDfiAnbDhaB|jB`BrdAwoA~iAax@n`CkC~iBkm@zqBoEptBo~@v{@eTvWxEaUhs@}d@dh@qwAzz@}k@}Tie@_Emx@sHipAvj@ulCrvA_}Axa@edAkkAwvAk_BuqDatAwwBcg@kpB`_@grCnsDakJtwGqhI`oCgkC~pCa}F`~DoeGr`CgsFziGagNv`FqmGhiBgaI`bAorA}GuVuWcv@`e@ucAlb@w_@zgA{}@_yAnkA}p@bt@dD|a@jJdXui@rmBg_BzxG{~@~cC}wCr~Ce_GpxMcaDdxGelDriF}uClpG_eCf_C{kF|oGcwBtrDqmBn}EusB|nDwjCd[eyAfFcdA{n@quCi~AqyAan@y_@gtBtJgdD}xAohBw|@a`FfVeeIiRsu@wv@h`@ui@xeA}f@xNxXs_A|l@om@jBuiEedAe}AunDcpBmaDaVklA~g@sT~_AygBffBogEfnAokEep@{tFjkDksAx}AqpAzmEaeBpfD{kAfaBir@`nFci@pnCcmAxiBonCprAcxApIu}DooAuvChCc`Cz\\spCziByzFdwDgiFhlAuaC|gDs|Al`Ak`@zoAggCzaEit@jfDclAduAwoDrfGocAxUs`BlpA}|BlpBcgAxr@wdA{SosApu@q[xkB_x@fgFw^pqA{g@|Tk}Bof@__BasDuhAcrC_~AqyBkx@ys@al@mOmv@qlCilCmb@sdEqhFs`BfKm_A_pBo\\w{@gi@sGshAJ}xAoZq|@hx@inD~{@saEsiAsuAu^o~@~g@{p@s^o{BcSesB_c@wsBro@qhBaMisCht@c`Bx_AwaAnt@aj@oX_EsbB_o@ubBsoAyyDccBuhHkhBshCmeAouEux@ssAohAosA_|AuuBwf@edChc@{gCcJ_hDw^ohBmyF_fI}fMinIamCohE_fBmlF_mBa}MqoBy`GseBg{BetDopBepDs}K{mA{\\ix@sf@wk@maA}Mi~@qJaJuSdU"
+         },
+         "summary" : "E65/E71",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
